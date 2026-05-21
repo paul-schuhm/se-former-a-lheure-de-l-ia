@@ -26,7 +26,7 @@ section {
 
 <!-- ![bg right contain](./assets/non-deterministe.svg) -->
 
-<img src="./assets/non-deterministe.svg" width="300">
+<img src="./assets/non-deterministe.svg" width="200">
 
 **Même input, jamais le même output !**
 
@@ -70,13 +70,18 @@ Dépend du modèle, des sources sur lesquelles elle a été entraînée, *wrappe
 
 ## Meilleur *input*, meilleur *output*
 
-![bg right contain](./better-input-better-output.svg)
+<!-- ![bg right contain](./better-input-better-output.svg) -->
+
+<img src="./assets/better-input-better-output.svg" width="200">
+
 
 La qualité de la réponse obtenue dépend de **la qualité de votre prompt** (input) !
 
 ## L'IA amplifie et met à l'échelle vos compétences, ce que *vous êtes et savez*
 
-![bg right contain](./amplifie.svg)
+<!-- ![bg right contain](./amplifie.svg) -->
+
+<img src="./assets/amplifie.svg" width="200">
 
 - Ne négligez pas **les fondamentaux**, bien au contraire !
 - Ce que produit l'IA est **le reflet de votre niveau de compétences** !
