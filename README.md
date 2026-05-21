@@ -229,3 +229,14 @@ Avant c'était bookmark un lien ou dl un PDF. aujourd'hui c'est l'IA
 - Ne méprisez pas les fondamentaux, bien au contraire !
 - Pour vous former à ce métier, **codez beaucoup et programmez !**
 - Soyez créatifs et prenez du *plaisir* !
+
+
+## Quelques ressources utiles pour y réfléchir
+
+- [Nothing has changed about software engineering](https://www.youtube.com/watch?v=lxDRDORvFdE&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=3), Ben Eggers (OpenAI),  Bug Bash 2026
+- [AI Is Coming for Developers… They Said](https://www.youtube.com/watch?v=ZtNRIYGWl8c&list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3&index=7), de [Lama Dev](https://www.youtube.com/@LamaDev)
+- [L'IA rend-elle les développeurs juniors inutiles ? Un ingénieur affirme que l'IA risque de créer des compétences superficielles chez les débutants](https://www.developpez.net/forums/d2152433-6/general-developpement/algorithme-mathematiques/intelligence-artificielle/me-sens-impuissant-jeunes-diplomes-peinent-trouver-emploi-debutant-l-ia-coupable/#post12116215)
+- [Social Media Created Fake Programmers](https://www.youtube.com/watch?v=IW3Sbe0Hbgg), de [Lama Dev](https://www.youtube.com/@LamaDev)
+- [How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](https://margaretstorey.com/blog/2026/02/09/cognitive-debt/), de Margaret-Anne Storey
+- [No Silver Bullet : Essence and Accident in Software Engineering"](http://www.cs.unc.edu/techreports/86-020.pdf), Frederick Brooks, 1986
+- [Programming as theory building](https://pages.cs.wisc.edu/~remzi/Naur.pdf), de Peter Naur, 1985
