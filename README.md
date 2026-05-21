@@ -81,7 +81,7 @@ La qualité de la réponse obtenue dépend de **la qualité de votre prompt** (i
 
 <!-- ![bg right contain](./amplifie.svg) -->
 
-<img src="./assets/amplifie.svg" width="200">
+<img src="./assets/amplifie.svg" width="600">
 
 - Ne négligez pas **les fondamentaux**, bien au contraire !
 - Ce que produit l'IA est **le reflet de votre niveau de compétences** !
