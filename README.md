@@ -24,7 +24,9 @@ section {
 
 ## IA n'est pas déterministe
 
-![bg right contain](./assets/non-deterministe.svg)
+<!-- ![bg right contain](./assets/non-deterministe.svg) -->
+
+<img src="./assets/non-deterministe.svg" width="300">
 
 **Même input, jamais le même output !**
 
@@ -222,4 +224,3 @@ Avant c'était bookmark un lien ou dl un PDF. aujourd'hui c'est l'IA
 - Ne méprisez pas les fondamentaux, bien au contraire !
 - Pour vous former à ce métier, **codez beaucoup et programmez !**
 - Soyez créatifs et prenez du *plaisir* !
-# se-former-a-lheure-de-l-ia
