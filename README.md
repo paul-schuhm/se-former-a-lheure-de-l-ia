@@ -1,4 +1,4 @@
----
+<!-- ---
 marp: false
 paginate: true
 headingDivider: 2
@@ -10,7 +10,7 @@ footer:
 section {
     font-size:22px;
 }
-</style>
+</style> -->
 
 # Développeur·se : Se former à l'heure de l'IA
 
@@ -22,7 +22,7 @@ section {
 - L'industrie **change** (manière de travailler), **ce que produit l'industrie non** (code, déployer et gérer des machines)
 - Le métier de développeur·se ne va pas "disparaître", il évolue.
 
-## IA n'est pas déterministe
+## L'IA n'est pas déterministe
 
 <!-- ![bg right contain](./assets/non-deterministe.svg) -->
 
@@ -38,7 +38,7 @@ Dépend du modèle, des sources sur lesquelles elle a été entraînée, *wrappe
 - Vous en **dépendez**. *Quid* si en panne ? Plus maintenue ? Modèle économique/tarif vous échappe ?
 - Une dépendance de plus, une raison de plus de casser
 
-## IA ne produit pas le meilleur résultat, elle cherche à *vous satisfaire*
+## L'IA ne produit pas le meilleur résultat, elle cherche à *vous satisfaire*
 
 - IA n'est pas *magique*, **renseignez-vous sur le fonctionnement de ces systèmes** et restez critiques (dépasser l'effet "whaou" même s'il est impressionnant)
 - IA est **baisée par son corpus d'entraînement** :
@@ -203,7 +203,7 @@ Si vous remettez tout à votre IA *maintenant*, dans cet *espace*, **quand** all
 Avant c'était bookmark un lien ou dl un PDF. aujourd'hui c'est l'IA
  -->
 
-## Mes conseils sur l'usage de l'IA en formation
+## Conseils sur l'usage de l'IA en formation
 
 - **Écrivez votre code** ! C'est le meilleur et **unique moyen de comprendre**, tester, faire des erreurs, se forger des intuitions sur des processus, prendre du plaisir. Il se passe quelque-chose d'important dans votre tête quand vous implémentez une solution, c'est là que l'on découvre *la forme* du problème
 - **Là pour apprendre, pas pour être productif !** Vous inquiétez pas, vous aurez tout le temps d'être productif en entreprise !
