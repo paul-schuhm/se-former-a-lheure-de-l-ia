@@ -121,13 +121,11 @@ La qualité de la réponse obtenue dépend de **la qualité de votre prompt** (i
 
 - Le code est **un réservoir de déterminisme**
 
-- Le code se construit en comprenant la *forme* du problème à résoudre. C'est le produit d'un processus de réflexion
+- Le code se construit en comprenant la *forme* du problème à résoudre. C'est le produit d'un processus de réflexion. C'est à la fois un ensemble d'**instructions** et un **modèle conceptuel du problème** (*How-to knowledge*)
 
 ## Ce qui ne change pas : le professionnalisme
 
 - ***"Ça marche"* n'est pas suffisant !** **Tout le monde peut produire quelque chose qui "fonctionne" !** Produire quelque chose qui fonctionne correctement, de manière sécurisée, performante et qui peut évoluer n'est pas à la portée de tout le monde car cela demande de l'**expertise**.
-- Le code : **instructions** et **modèle conceptuel du problème**. *How-to knowledge*
-- Le code est **déterministe**, réservoir de déterminisme.
 
 ## IA ou pas, à la fin, VOUS êtes responsable
 
