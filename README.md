@@ -34,9 +34,9 @@ Dépend du modèle, des sources sur lesquelles elle a été entraînée, *wrappe
 
 ## Une dépendance de plus
 
-- Comme une librairie, vous **déléguez quelque-chose à quelqu'un d'autre**
+- Comme lorsque vous utilisez un langage, un framework, une library, vous **déléguez quelque-chose à quelqu'un d'autre**. Et ici ce n'est pas rien, vous **déléguez une capacité de raisonnement et des compétences** !
 - Vous en **dépendez**. *Quid* si en panne ? Plus maintenue ? Modèle économique/tarif vous échappe ?
-- Une dépendance de plus, une raison de plus de casser
+- Une dépendance de plus, une raison de plus de casser !
 
 ## L'IA ne produit pas le meilleur résultat, elle cherche à *vous satisfaire*
 
