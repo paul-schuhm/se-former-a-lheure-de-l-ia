@@ -50,13 +50,12 @@ Dépend du modèle, des sources sur lesquelles elle a été entraînée, *wrappe
 ## Là où l'IA brille
 
 - Faire du *boilerplate* ou ce que vous avez déjà fait mille fois (et comprenez bien)
-- Des modules d'applications web basiques
-- Des applications *CRUD*
+- Implémenter des modules connus (*colorier le contenu des abstractions*)
 - Requêtes SQL classiques
 - Trouver des bugs classiques
-- **Discuter, explorer des sujets** (aller lire ensuite du contenu dessus)
+- **Discuter, explorer des sujets** (aller lire ensuite du contenu dessus), vous aider à aller du connu vers l'inconnu
 - **Se créer des scripts** (shell, etc.)
-- **Code review**, explication de commandes, d'outils bien documentés
+- **Code review**, explication de commandes, d'options, d'outils bien documentés
 - **Reformuler/Aide à l'écriture** : specifications, commentaires, doc
 
 ## Là où elle brille moins
@@ -67,6 +66,7 @@ Dépend du modèle, des sources sur lesquelles elle a été entraînée, *wrappe
 - Le design de schémas de DB
 - Débugage *profond*
 - Réduction de la codebase
+- **Préserver les interfaces** de vos modules
 
 ## Meilleur *input*, meilleur *output*
 
@@ -118,6 +118,10 @@ La qualité de la réponse obtenue dépend de **la qualité de votre prompt** (i
 > On entend souvent que l'IA est une abstraction de plus, comme le C le fut sur les langages assembleurs. Je ne suis pas d'accord. Car la nature de l'artefact, contrairement à l'époque du passage à des langages *haut niveau*, ne change pas ! C'est toujours le même code, les mêmes primitives !
 
 - **Programmer ce n'est (que) pas écrire du code**. "*Écrire* ce n'est pas taper à la machine" ! Toutes les personnes lettrées savent écrire. Tout le monde est-il écrivain ? Programmer c'est **réfléchir**, comprendre le **besoin**, **découvrir** les bonnes procédures, **designer** des systèmes, faire des **compromis**, déployer, monitorer.
+
+- Le code est **un réservoir de déterminisme**
+
+- Le code se construit en comprenant la *forme* du problème à résoudre. C'est le produit d'un processus de réflexion
 
 ## Ce qui ne change pas : le professionnalisme
 
