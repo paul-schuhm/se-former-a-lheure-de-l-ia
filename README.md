@@ -16,6 +16,10 @@ section {
 
 > Ma position et attitude face à l'IA et face à vous dans l'espace de formation.
 
+Développer = **résoudre des problèmes spécifiques** pour vos clients en *designant* et *produisant* un système (des programmes) *fiable*, *compréhensible*, *sécurisé* et *performant*.
+
+Vous êtes ou allez devenir *des professionnel·es*, on attend de vous et on vous paie pour des produits et des prestations de **qualité professionnelle**.
+
 ## Personne ne sait vraiment où nous en sommes et nous allons
 
 > "Programmers know the value of everything and the *cost* of nothing."" (Rich Hickey)
@@ -91,24 +95,20 @@ Dépend du modèle, des sources sur lesquelles elle a été entraînée, *wrappe
 - Les produits de l'IA *reflètent votre niveau de compétences* (input) ! Meilleur *input*, meilleur *output* !
 - Si vous faites mal votre travail, vous le ferez juste mal *plus vite*, *plus fort* !
 
-## "Écrire" du code n'a JAMAIS été le problème
-
-- Développer = **résoudre des problèmes spécifiques** pour vos clients en *designant* et *produisant* **un système fiable**, **compréhensible**, **sécurisé** et **performant**.
-- Vous êtes ou allez devenir **des professionnel·es**, on attend de vous et on vous paie pour des produits de **qualité professionnelle** !
-
 ## Ce qui ne change pas: l'artefact à produire est toujours le même
 
 >"AI has not changed the way software is built. Code is written using the same syntax, version controlled using the same version control systems, compiled using the same compilers, deployed to the same servers, and neglected by the same developers." (Kesley Hightower)
 
-Que vous produisiez le code ou qu'un programme comme une IA le génère pour vous, à la fin, ce que vous devez produire c'est toujours *du code*.
+Que vous produisiez le code ou qu'un programme comme une IA le génère pour vous, à la fin, ce que vous devez produire, c'est toujours *du code*.
 
-## Code = spécification
+## Code = spécifications
 
 >"Code has two distinct but intertwined purposes : **instructions** to a machine and a **conceptual model** of the problem domain" (Unmesh Joshi)
 
 >"Programs must be written for people to read, and only incidentally for machines to execute." (Harold Abelson)
 
 - Le code agit comme un *réservoir de déterminisme*. Le code est *l'ultime spécification*.
+- "Écrire du code" n'a JAMAIS été le problème
 - *Programmer* ce n'est pas qu'*écrire* du code. Écrire le code n'est qu'*une étape du processus*. "*Écrire* ce n'est pas taper à la machine" ! Toutes les personnes lettrées savent écrire, pourtant tout le monde n'est pas capable de devenir écrivain·e. Programmer c'est **réfléchir**, comprendre et travailler le **besoin**, analyser un problème (le découper en plusieurs sous-problèmes), **découvrir** le bon processus, **designer** un système, faire des **compromis**, le déployer et le monitorer (comprendre et corriger son comportement à l'exécution)
 
 ## De l'importance d'écrire du code
@@ -133,14 +133,29 @@ Que vous produisiez le code ou qu'un programme comme une IA le génère pour vou
 - Soyez responsables de vos actes, auprès de **vos clients**, auprès de **vos collègues**.
 - Imaginez que votre système tombe en panne ou que l'on trouve une faille critique à corriger (ce qui arrivera) et que votre LLM est momentanément indisponible, que faites-vous ? Si vous ne savez pas faire votre travail sans ces outils cela est très embarrassant
 
+## Dans ce nouveau contexte, quelle *valeur* allez-vous apporter ?
+
+- Si vous pensez que l'IA et la maîtrise de ces outils suffit pour travailler sur des systèmes réels, *pourquoi* êtes-vous là? Un diplôme ? Si vous êtes là pour un diplôme, il va falloir travailler et *apprendre* car sinon vous ne passerez pas les jury !
+- Supposez que vous pensez que n'importe *qui* peut, aujourd'hui, à l'aide d'agents, produire et maintenir n'importe quel système (ce qui est faux, vous avez une vision très limités de la diversité et de la complexité des systèmes déployés). Vous pensez qu'apprendre, par exemple, qu'apprendre un langage de programmation ou coder "à la main" ne sert plus à rien. Comment allez-vous défendre *votre valeur* et *votre position* par rapport à quelqu'un qui a pris la peine de le faire ? Comment allez-vous convaincre de vous faire confiance sans aucune expertise et expérience ? Quelqu'un qui sait *coder*, c'est quelqu'un qui est capable de *spécifier* une solution.
+- Vous savez utiliser les clients IA ? Utilisez des agents ? Plusieurs agents ? Vous avez un abonnement cher à un modèle puissant ? Vous travaillez *vite* ? **N'importe qui, en quelques heures, peut posséder ces outils et ces compétences !** Vous n'avez jamais été aussi **remplaçables** !
+  - Salarié : qui choisir pour un poste entre un utilisateur d'IA sans compétences techniques et un utilisateur d'IA qui est également compétent et a de solides connaissances ?
+  - À votre compte : quelle est votre *expérience* ? Qu'est ce que vous *savez* ? Qu'est ce qui vous rend *intéressant* ? Quelles sont vos *idées*, vos plans, vos *perspectives* ? Pourquoi on aurait envie de travailler avec vous et de vous faire confiance ?
+
+## Effets de l'usage inconsidéré de l'IA sur le long terme
+
+- **Dette cognitive**/**Capitulation cognitive** : *attention*, plus vous déléguez vos efforts mentaux aux IA, plus il vous sera difficile de *réfléchir* ! Les effets à long terme de cette capitulation pourraient être dévastateurs, et sont déjà documentés par des études scientifiques
+- L'*impression* de comprendre, de maîtriser
+- **Perte progressive de compétences, d'expertise et d'autonomie**. Vous allez être dépouillé·e (et vous aurez payé pour ça!) de toute *autonomie* et de ce qui vous permet de travailler. Des gens compétents, des experts techniques, sont amenés, souvent par la contrainte, à utiliser l'IA (et tout ce que cela implique en terme de *coûts*) pour faire, à leur place, un travail *qu'il savent faire eux-mêmes* et [se transforment "en retraités qui appuient sur le bouton d'une machine à sous"](https://www.lesnumeriques.com/intelligence-artificielle/12-a-13-heures-par-jour-a-appuyer-sur-entree-le-cri-d-alarme-d-un-developpeur-face-a-l-ia-claude-code-n262240.html)
+- **Perte de contrôle sur votre système/produit**. Vous ne possédez *plus* votre système, plus de connaissance partagée pour le maintenir. Très dangereux pour vos utilisateurs et vous même
+
+> Si vous pensez que vous pouvez devenir un·e bon·ne programmeur·se (qualifié et professionnel) *sans passer par la friction de l'apprentissage* (*en vibant*), vous vous trompez lourdement ! Si vous n'aimez pas *programmer*, apprendre en permanence, écrire du code, *réfléchir*, résoudre des problèmes (conception, logique, techniques, etc.), ce métier ne va *pas* vous plaire. N'oubliez pas que *réfléchir*, *apprendre*, *faire des erreurs* cela vous *transforme* (association d'idées), vous donne de l'*expérience*, vous rend *intéressant* et fait que la vie *vaut la peine* d'être vécue !
+
 ## Faire la différence entre l'espace de formation (ici) et l'espace de production (entreprise)
 
 - **Deux espaces** différents, **deux objectifs** différents
 - Outils et méthodes différentes
 
-## Faire la différence entre l'espace de formation (ici) et l'espace de production (entreprise)
-
-Espace de formation : acquérir des compétences et du savoir (ensemble structuré de connaissances)
+## Espace de formation : acquérir des compétences et du savoir (ensemble structuré de connaissances)
 
 - Apprendre, avoir des retours
 - Acquérir des compétences et engranger de l'expérience
@@ -149,9 +164,7 @@ Espace de formation : acquérir des compétences et du savoir (ensemble structur
 - Problèmes et des systèmes *de petite taille*
 - Les spécifications vous sont données (tp, examen, projet)
 
-## Faire la différence entre l'espace de formation (ici) et l'espace de production (entreprise)
-
-Espace de production : produire de la valeur
+## Espace de production : produire de la valeur
 
 - **Recueillir** les besoins, **spécifier** une solution
 - Respecter **contraintes** (deadline, budget), **compromis** (qualité/coût)
@@ -175,49 +188,27 @@ Espace de production : produire de la valeur
 ## En formation
 
 - Ne vous faites pas avoir par le *contexte* : là pour **apprendre**, **pas produire** !
-- Les problèmes que l'on aborde sont **connus**, les IA y sont *très* performantes. C'est un biais.
-
-## En formation
-
-- On y travaille sur des **problèmes connus** : vous formez à comprendre **des classes de problème**, le **fonctionnement des technologies** qui vont rester : protocoles, fondamentaux (web, compilation, etc.), certains langages, etc.
+- Les problèmes que l'on aborde sont **connus**, de petite taille, de faible dimension: les IA y sont *très* performantes. C'est un biais.
+- Vous formez à comprendre **des classes de problème**, le **fonctionnement des technologies** qui vont rester : protocoles, fondamentaux (compilation, web, etc.), certains langages, etc.
 - **Apprendre à apprendre** !
-- Réfléchir au *design*, aux *procédures*, à votre manière d'aborder des problèmes, de **comprendre les compromis**, **savoir faire des choix**
+- Réfléchir au *design*, aux *procédures*, à votre manière d'aborder des problèmes, de **comprendre les compromis**, **savoir faire des choix**, développer un sens d'architecture logiciel et de *design*
 - L'apprentissage passe par la *friction*, buter facer à des problèmes, être capable de *les résoudre* et *montrer aux autres* que vous êtes *capables* de réaliser des choses qui demandent effort et réflexion
 
-Si vous remettez tout à votre IA *maintenant*, dans cet *espace*, *quand* allez-vous vous former ? Quelle *expérience* avez-vous ?
+Si vous remettez tout à votre IA *maintenant*, dans cet *espace*, *quand* allez-vous vous former ? Quelle *expérience* aurez-vous acquise ? *Comment* allez-vous justifier vos compétences ? Qu'allez-vous *apporter* ?
 
 ## Conseils sur l'usage de l'IA en formation
 
 - Il y aura *toujours* du code ! Si demain on va passer moins de temps à *écrire du code*, on va passer (encore) plus de temps à *gérer et évaluer du code* produit par l'IA. On a toujours passé plus de temps à lire et écrire du code ! Comment juger de la qualité du code sans connaissances, ni expérience, sans en écrire vous-même ?
 - Les fondamentaux ont toujours et seront toujours importants ! C'est ce qui fera de vous des meilleur·es programmeur·ses, IA ou non.
-- L'IA produit (déjà) du meilleur code que les humains sur *des modules de très petite taille* (fonction)/ petites tâches. Pour identifier du *bon* code, vous **devez savoir exactement ce que vous voulez et ne voulez PAS**. Comment allez-vous *juger* du résultat si vous n'avez pas de bases solides ni d'expérience ? Vous allez tout "gober" ?
+- L'IA produit (déjà) du meilleur code que les humains sur *des modules de très petite taille* (fonction)/ petites tâches. Pour identifier du *bon* code, vous devez savoir exactement ce que *bon* signifie ! Vous devez savoir ce que vous voulez et ne voulez PAS. Comment allez-vous *juger* du résultat si vous n'avez pas de bases solides ni d'expérience ? Vous allez tout "gober" ?
 - L'IA est *impressionnante*, mais elle produit aussi de *très mauvaises choses* (*IA slop*) !
 - Programmer et écrire du code : **acquérir du *how-to* knowledge** pour résoudre des nouveaux problèmes
-
-## Effets de l'usage inconsidéré de l'IA sur le long terme
-
-- **Dette cognitive**/**Capitulation cognitive** : *attention*, plus vous déléguez vos efforts mentaux aux IA, plus il vous sera difficile de *réfléchir* ! Les effets à long terme de cette capitulation pourraient être dévastateurs, et sont déjà documentés par des études scientifiques
-- L'*impression* de comprendre, de maîtriser
-- Perte de compétences et d'expertise. Vous allez être dépouillé·e (et vous aurez payé pour ça!) de toute *autonomie* et de ce qui vous permet de travailler. Des gens compétents, des experts techniques, sont amenés, souvent par la contrainte, à utiliser l'IA (et tout ce que cela implique en terme de *coûts*) pour faire, à leur place, un travail *qu'il savent faire eux-mêmes* et [se transforment "en retraités qui appuient sur le bouton d'une machine à sous"](https://www.lesnumeriques.com/intelligence-artificielle/12-a-13-heures-par-jour-a-appuyer-sur-entree-le-cri-d-alarme-d-un-developpeur-face-a-l-ia-claude-code-n262240.html)
-
-> Si vous pensez que vous pouvez devenir un·e bon·ne programmeur·se (qualifié et professionnel) *sans passer par la friction de l'apprentissage* (*en vibant*), vous vous trompez lourdement ! Si vous n'aimez pas *programmer*, apprendre en permanence, écrire du code, *réfléchir*, résoudre des problèmes (conception, logique, techniques, etc.), ce métier ne va *pas* vous plaire. N'oubliez pas que *réfléchir*, *apprendre*, *faire des erreurs* cela vous *transforme* (association d'idées), vous donne de l'*expérience*, vous rend *intéressant* et fait que la vie *vaut la peine* d'être vécue !
-
-## Conseils sur l'usage de l'IA en formation
-
 - **Écrivez votre code** ! C'est le meilleur et **unique moyen de comprendre**, tester, faire des erreurs, se forger des intuitions sur des processus, prendre du plaisir. Il se passe quelque-chose d'important dans votre tête quand vous implémentez une solution, c'est là que l'on découvre *la forme* du problème
 - **Là pour apprendre, pas pour être productif !** Vous inquiétez pas, vous aurez tout le temps d'être productif en entreprise !
 - N'utilisez pas d'IA pour les problèmes nouveaux, que vous n'avez pas essayé de comprendre d'abord ou déjà résolus
 - **Lire**, **comprendre** et **vérifiez toutes les solutions, instructions proposées par l'IA**
 - Des périodes régulières de **programmation sans l'aide de l'IA**. Faites *reviewer* **ensuite** votre code par une IA pour **découvrir** des failles dans votre code et votre raisonnement. Pour **apprendre**, **corriger**.
 - Aux solutions proposées, **demandez s'il existe des solutions alternatives**. Plutôt que de demander à l'IA une réponse directe, lui demander **plusieurs approches** avec leurs **avantages et inconvénients**. Cela force la compréhension des compromis et produit souvent de meilleures réponses.
-
-## Dans ce nouveau contexte, quelle *valeur* allez-vous apporter ?
-
-- Si vous pensez que l'IA et la maîtrise de ces outils suffit pour travailler sur des systèmes réels, *pourquoi* êtes-vous là? Un diplôme ? Si vous êtes là pour un diplôme, il va falloir travailler et *apprendre* car sinon vous ne passerez pas les jury !
-- Supposez que vous pensez que n'importe *qui* peut, aujourd'hui, à l'aide d'agents, produire et maintenir n'importe quel système (ce qui est faux, vous avez une vision très limités de la diversité et de la complexité des systèmes déployés). Vous pensez qu'apprendre, par exemple, qu'apprendre un langage de programmation ou coder "à la main" ne sert plus à rien. Comment allez-vous défendre *votre valeur* et *votre position* par rapport à quelqu'un qui a pris la peine de le faire ? Comment allez-vous convaincre de vous faire confiance sans aucune expertise et expérience ? Quelqu'un qui sait *coder*, c'est quelqu'un qui est capable de *spécifier* une solution.
-- Vous savez utiliser les clients IA ? Utilisez des agents ? Plusieurs agents ? Vous avez un abonnement cher à un modèle puissant ? Vous travaillez *vite* ? **N'importe qui, en quelques heures, peut posséder ces outils et ces compétences !** Vous n'avez jamais été aussi **remplaçables** !
-  - Salarié : qui choisir pour un poste entre un utilisateur d'IA sans compétences techniques et un utilisateur d'IA qui est également compétent et a de solides connaissances ?
-  - À votre compte : quelle est votre *expérience* ? Qu'est ce que vous *savez* ? Qu'est ce qui vous rend *intéressant* ? Quelles sont vos *idées*, vos plans, vos *perspectives* ? Pourquoi on aurait envie de travailler avec vous et de vous faire confiance ?
 
 ## Conclusion
 
