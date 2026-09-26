@@ -132,6 +132,7 @@ Que vous produisiez le code ou qu'un programme comme une IA le génère pour vou
 - **La confiance est une affaire humaine**, ce n'est pas une question technologique.
 - Soyez responsables de vos actes, auprès de **vos clients**, auprès de **vos collègues**.
 - Imaginez que votre système tombe en panne ou que l'on trouve une faille critique à corriger (ce qui arrivera) et que votre LLM est momentanément indisponible, que faites-vous ? Si vous ne savez pas faire votre travail sans ces outils cela est très embarrassant
+- Si vous ne prenez pas le temps de le faire, pourquoi prendre le temps d'utiliser votre système ? Si vous ne prenez pas la peine d'écrire, on ne prendra pas la peine de vous lire
 
 ## Dans ce nouveau contexte, quelle *valeur* allez-vous apporter ?
 
@@ -142,7 +143,7 @@ Que vous produisiez le code ou qu'un programme comme une IA le génère pour vou
   - Comment allez-vous monter en compétences sur des domaines comme l'architecture logicielle, où l'intervention humaine est nécessaire ? Vous ne pouvez pas devenir architecte, developer une expertise de haut niveau, *sans expérience*! Pour cela, vous devez avoir eu l'occasion d'*expérimenter* (essais, erreurs, réussites). Les personnes avec du savoir-faire en architecture logicielle sont des personnes qui ont su se confronter aux problèmes *à toutes les échelles* et vont apporter beaucoup plus de valeur que vous
 - Vous savez utiliser les clients IA ? Utilisez des agents ? Plusieurs agents ? Vous avez un abonnement cher à un modèle puissant ? Vous travaillez *vite* ? **N'importe qui, en quelques heures, peut posséder ces outils et ces compétences !** Vous n'avez jamais été aussi **remplaçables** !
   - Salarié : qui choisir pour un poste entre un utilisateur d'IA sans compétences techniques et un utilisateur d'IA qui est également compétent et a de solides connaissances ?
-  - À votre compte : quelle est votre *expérience* ? Qu'est ce que vous *savez* ? Qu'est ce qui vous rend *intéressant* ? Quelles sont vos *idées*, vos plans, vos *perspectives* ? Pourquoi on aurait envie de travailler avec vous et de vous faire confiance ?
+  - À votre compte : quelle est votre *expérience* ? Qu'est ce que vous *savez* ? Qu'est ce qui vous rend *intéressant* ? Quelles sont vos *idées*, vos plans, vos *perspectives* ? Pourquoi on aurait envie de travailler avec vous et de vous faire confiance ? 
 
 ## Effets de l'usage inconsidéré de l'IA sur le long terme
 
