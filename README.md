@@ -194,14 +194,13 @@ Si vous remettez tout à votre IA *maintenant*, dans cet *espace*, *quand* allez
 - L'IA *ment* (contrairement à votre calculatrice ou votre compteur de vitesse). C'est la première fois dans l'histoire de l'humanité que vous devez apprendre à vous *méfier d'un outil*
 - Programmer et écrire du code : **acquérir du *how-to* knowledge** pour résoudre des nouveaux problèmes
 
-## Sur le long terme
+## Effets de l'usage inconsidéré de l'IA sur le long terme
 
-- L'*impression* de comprendre, de maîtriser.
 - **Dette cognitive**/**Capitulation cognitive** : *attention*, plus vous déléguez vos efforts mentaux aux IA, plus il vous sera difficile de *réfléchir* ! Les effets à long terme de cette capitulation pourraient être dévastateurs, et sont déjà documentés par des études scientifiques
-- Si vous pensez que vous pouvez devenir un·e bon·ne programmeur·se (qualifié et professionnel) *sans passer par la friction de l'apprentissage* (*en vibant*), vous vous trompez lourdement !
-- Perte de compétences et d'expertise. Vous allez être dépouillé de toute *autonomie* et ce qui vous permet de travailler
-- Si vous n'aimez pas *programmer*, apprendre en permanence, écrire du code, *réfléchir*, résoudre des problèmes (conception, logique, techniques, etc.), ce métier ne va *pas* vous plaire.
-- N'oubliez pas que *réfléchir*, *apprendre*, *faire des erreurs* cela vous *transforme* (association d'idées), vous donne de l'*expérience*, vous rend *intéressant* et fait que la vie *vaut la peine* d'être vécue !
+- L'*impression* de comprendre, de maîtriser
+- Perte de compétences et d'expertise. Vous allez être dépouillé·e (et vous aurez payé pour ça!) de toute *autonomie* et de ce qui vous permet de travailler. Des gens compétents, des experts techniques, sont amenés, souvent par la contrainte, à utiliser l'IA (et tout ce que cela implique en terme de *coûts*) pour faire, à leur place, un travail *qu'il savent faire eux-mêmes* et [se transforment "en retraités qui appuient sur le bouton d'une machine à sous"](https://www.lesnumeriques.com/intelligence-artificielle/12-a-13-heures-par-jour-a-appuyer-sur-entree-le-cri-d-alarme-d-un-developpeur-face-a-l-ia-claude-code-n262240.html)
+
+> Si vous pensez que vous pouvez devenir un·e bon·ne programmeur·se (qualifié et professionnel) *sans passer par la friction de l'apprentissage* (*en vibant*), vous vous trompez lourdement ! Si vous n'aimez pas *programmer*, apprendre en permanence, écrire du code, *réfléchir*, résoudre des problèmes (conception, logique, techniques, etc.), ce métier ne va *pas* vous plaire. N'oubliez pas que *réfléchir*, *apprendre*, *faire des erreurs* cela vous *transforme* (association d'idées), vous donne de l'*expérience*, vous rend *intéressant* et fait que la vie *vaut la peine* d'être vécue !
 
 ## Conseils sur l'usage de l'IA en formation
 
