@@ -31,7 +31,6 @@ section {
   - [Espace de formation : acquérir des compétences et du savoir (ensemble structuré de connaissances)](#espace-de-formation--acquérir-des-compétences-et-du-savoir-ensemble-structuré-de-connaissances)
   - [Espace de production : produire de la valeur](#espace-de-production--produire-de-la-valeur)
   - [Le biais de l'espace de formation](#le-biais-de-lespace-de-formation)
-  - [En formation](#en-formation)
   - [Conseils sur l'usage de l'IA en formation](#conseils-sur-lusage-de-lia-en-formation)
   - [Conclusion](#conclusion)
   - [Quelques ressources utiles pour y réfléchir](#quelques-ressources-utiles-pour-y-réfléchir)
@@ -226,29 +225,24 @@ Le code agit comme un *réservoir de déterminisme*. Le code est *l'ultime spéc
 - *Problèmes classiques* et connus
 - Le monde réel est beaucoup plus *complexe* ! *The world is a mess and things go wrong!*
 
-## En formation
+## Conseils sur l'usage de l'IA en formation
 
-- Ne vous faites pas avoir par le *contexte* : là pour **apprendre**, **pas pour produire** !
+- L'apprentissage passe par la *friction*, vous devez confronter votre compréhension aux faits, rencontrer des problèmes, être capable de *les résoudre* et *montrer aux autres* (communiquer) que vous êtes *capables* de réaliser des choses qui demandent effort et réflexion
+- Ne vous faites pas avoir par le *contexte* : là pour **apprendre**, **pas pour produire** ! Oh, ne vous inquiétez pas, vous aurez tout le temps d'être productif dans le monde du travail !
 - Vous formez à comprendre **des classes de problème**, le **fonctionnement des technologies** qui vont rester : protocoles, fondamentaux (compilation, web, etc.), certains langages, etc.
 - **Apprendre à apprendre** !
 - Réfléchir au *design*, aux *procédures*, à votre manière d'aborder des problèmes, de **comprendre les compromis**, **savoir faire des choix**, développer un sens d'architecture logiciel et de *design*
-- L'apprentissage passe par la *friction*, vous devez confronter votre compréhension aux faits, rencontrer des problèmes, être capable de *les résoudre* et *montrer aux autres* (communiquer) que vous êtes *capables* de réaliser des choses qui demandent effort et réflexion
-
-Si vous remettez tout à votre IA *maintenant*, dans cet *espace*, *quand* allez-vous vous former ? Quelle *expérience* aurez-vous acquise ? *Comment* allez-vous justifier vos compétences ? Qu'allez-vous *apporter* ?
-
-## Conseils sur l'usage de l'IA en formation
-
+- Programmez et écrivez du code : vous allez **acquérir du *how-to* knowledge** pour résoudre des nouveaux problèmes. Programmer et écrire du code, c'est le meilleur et **unique moyen de comprendre**, tester, faire des erreurs, se forger des intuitions sur des processus, prendre du plaisir. Il se passe quelque-chose d'important dans votre tête quand vous implémentez une solution, c'est là que l'on découvre *la forme* du problème
 - Il y aura *toujours* du code ! Si demain on va passer moins de temps à *écrire du code*, on va passer (encore) plus de temps à *gérer et évaluer du code* produit par l'IA. On a toujours passé plus de temps à lire et écrire du code ! Comment juger de la qualité du code sans connaissances, ni expérience, sans en écrire vous-même ?
 - Les fondamentaux ont toujours et seront toujours importants ! C'est ce qui fera de vous des meilleur·es programmeur·ses, IA ou non.
 - L'IA produit (déjà) du meilleur code que les humains sur *des modules de très petite taille* (fonction)/ petites tâches. Pour identifier du *bon* code, vous devez savoir exactement ce que *bon* signifie ! Vous devez savoir ce que vous voulez et ne voulez PAS. Comment allez-vous *juger* du résultat si vous n'avez pas de bases solides ni d'expérience ? Vous allez tout "gober" ?
 - L'IA est *impressionnante*, mais elle produit aussi de *très mauvaises choses* (*IA slop*) !
-- Programmer et écrire du code : **acquérir du *how-to* knowledge** pour résoudre des nouveaux problèmes
-- **Écrivez votre code** ! C'est le meilleur et **unique moyen de comprendre**, tester, faire des erreurs, se forger des intuitions sur des processus, prendre du plaisir. Il se passe quelque-chose d'important dans votre tête quand vous implémentez une solution, c'est là que l'on découvre *la forme* du problème
-- **Là pour apprendre, pas pour être productif !** Vous inquiétez pas, vous aurez tout le temps d'être productif en entreprise !
-- N'utilisez pas d'IA pour les problèmes nouveaux, que vous n'avez pas essayé de comprendre d'abord ou déjà résolus
+- N'utilisez pas d'IA pour les problèmes *nouveaux*, que vous n'avez pas essayé de comprendre d'abord ou déjà résolus
 - **Lire**, **comprendre** et **vérifiez toutes les solutions, instructions proposées par l'IA**
-- Des périodes régulières de **programmation sans l'aide de l'IA**. Faites *reviewer* **ensuite** votre code par une IA pour **découvrir** des failles dans votre code et votre raisonnement. Pour **apprendre**, **corriger**.
+- Des périodes régulières de programmation sans l'aide de l'IA. Faites *reviewer* **ensuite** votre code par une IA pour **découvrir** des failles dans votre code et votre raisonnement. Pour **apprendre**, **corriger**.
 - Aux solutions proposées, **demandez s'il existe des solutions alternatives**. Plutôt que de demander à l'IA une réponse directe, lui demander **plusieurs approches** avec leurs **avantages et inconvénients**. Cela force la compréhension des compromis et produit souvent de meilleures réponses.
+
+Si vous remettez tout à votre IA *maintenant*, dans cet *espace*, *quand* allez-vous vous former ? Quelle *expérience* aurez-vous acquise ? *Comment* allez-vous justifier vos compétences ? Qu'allez-vous *apporter* ?
 
 ## Conclusion
 
