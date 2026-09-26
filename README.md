@@ -16,9 +16,21 @@ section {
 
 > Ma position et attitude face à l'IA et face à vous dans l'espace de formation.
 
-Développer = **résoudre des problèmes spécifiques** pour vos clients en *designant* et *produisant* un système (des programmes) *fiable*, *compréhensible*, *sécurisé* et *performant*.
+Le but de ce métier est de résoudre des problèmes spécifiques pour vos clients en *designant* et *produisant* un système (des programmes) *fiable*, *compréhensible*, *sécurisé* et *performant*. Vous êtes, ou allez devenir, *des professionnel·es*: on attend de vous (et on vous paie pour) des produits et des prestations de *qualité professionnelle*.
 
-Vous êtes ou allez devenir *des professionnel·es*, on attend de vous et on vous paie pour des produits et des prestations de **qualité professionnelle**.
+Programmer c'est :
+
+- apprendre à réfléchir
+- réfléchir
+- comprendre
+- travailler des besoins
+- analyser un problème (découper un nouveau problème en plusieurs petits problèmes connus ou trouver de nouveaux problèmes)
+- découvrir les bons processus
+- *designer* un système
+- faire des *compromis*
+- écrire du code (spécification)
+- communiquer
+- déployer et monitorer (comprendre et corriger le comportement à l'exécution)
 
 ## Personne ne sait vraiment où nous en sommes et nous allons
 
@@ -107,22 +119,22 @@ Que vous produisiez le code ou qu'un programme comme une IA le génère pour vou
 
 >"Programs must be written for people to read, and only incidentally for machines to execute." (Harold Abelson)
 
-- Le code agit comme un *réservoir de déterminisme*. Le code est *l'ultime spécification*.
-- "Écrire du code" n'a JAMAIS été le problème
-- *Programmer* ce n'est pas qu'*écrire* du code. Écrire le code n'est qu'*une étape du processus*. "*Écrire* ce n'est pas taper à la machine" ! Toutes les personnes lettrées savent écrire, pourtant tout le monde n'est pas capable de devenir écrivain·e. Programmer c'est **réfléchir**, comprendre et travailler le **besoin**, analyser un problème (le découper en plusieurs sous-problèmes), **découvrir** le bon processus, **designer** un système, faire des **compromis**, le déployer et le monitorer (comprendre et corriger son comportement à l'exécution)
+Le code agit comme un *réservoir de déterminisme*. Le code est *l'ultime spécification*.
+
+>"Écrire du code" n'a JAMAIS été le problème
 
 ## De l'importance d'écrire du code
 
 >"Computer science is a terrible name for this business... First of all, it's not a science... It's also not really very much about computers [...] The computer revolution is a revolution in the way we think and in the way we express what we think. The essence of this change is the emergence of what might best be called "procedural epistemology", the study of the structure of knowledge from an imperative point of view [...]. Computation provides a framework for dealing precisely with notions of **how to**" (Harold Abelson)
 
-- Le code est le produit d'un *processus* de réflexion. C'est à la fois un ensemble d'*instructions* et un *modèle conceptuel du problème* (*How-to knowledge*). Coder c'est apprendre à penser et à *spécifier* un besoin de plus haut niveau. La production du code n'est pas seulement de *taper à la machine*, c'est le *résultat* d'un processus *mental* et *physique* (itérations) important. A la fin de ce processus, en plus d'avoir spécifier la solution, vous avez produit *un modèle mental* de cette partie du système
-- Le code produit par une IA n'est pas *votre* code. C'est un code avec lequel vous n'avez aucun *engagement*, comme un code produit par un ancien collègue parti depuis longtemps. La *théorie*, la *connaissance* de ce code est *partie*. Le comprendre et le modifier va être pénible. Laissez faire une IA sans s'engager ? *Amplifier* la situation initiale.
-- Si vous déléguez tout le code à écrire à l'IA, vous écriez de moins en moins de code. Vous serez donc de moins en moins capable de lire correctement du code. Les revues de code vont devenir difficiles ou inutiles. Mécaniquement, vous perdez le contrôle (*illettrisme*)
-- Écrire du code c'est acquérir de l'*expérience*. Des compétences en architecture logicielle ne s’acquièrent que par l'experience. L'IA, à l'heure actuelle, ne sait *pas* faire de l'architecture logicielle (abstractions de haut niveau, contrôle des dépendances, modularité et préservation des interfaces)
+- *Programmer* ce n'est pas qu'*écrire du code*. Et *écrire du code* ce n'est pas que *taper des caractères* sur un clavier. Le code est le *produit* final d'un *processus* de réflexion. C'est à la fois un ensemble d'*instructions* et un *modèle conceptuel du problème* (*How-to knowledge*). *Coder* c'est apprendre à *spécifier* une solution. La production du code n'est pas réductible à l'acte de *taper à la machine* : c'est le *résultat* d'un *engagement* et d'un processus *mental* et *physique* important. A la fin de ce processus, en plus d'avoir spécifier la solution, vous avez produit *un modèle mental* du système. Le code est la *réification* de ce modèle mental et la seule chose que vous pouvez *réellement* partager pour communiquer votre compréhension du système. Le code est *la seule chose qu'il reste* quand tout le reste est parti
+- Le code produit par une IA n'est pas *votre* code. C'est un code avec lequel vous n'avez aucun *engagement*, comme un code produit par un ancien collègue parti depuis longtemps. La *théorie*, la *connaissance* de ce code est *partie* ou n'a jamais existé. Comprendre et modifier ce code va être pénible et difficile. Il serait alors tentant de laisser faire une IA sans s'engager. Mais le résultat est d'*amplifier* le problème initial.
+- Si vous déléguez toujours davantage l'écriture du code à l'IA, en plus de perdre la connaissance du système, vous allez, mécaniquement, écrire de moins en moins de code vous-même. Vous serez donc de moins en moins capable de *lire* et de *juger correctement* du code. Les revues de code vont devenir difficiles ou inutiles. Mécaniquement, vous perdrez le contrôle sur votre système (une forme d'*illettrisme* ?)
+- Écrire du code permet d'acquérir de l'*expérience*. Des compétences en architecture logicielle ne s’acquièrent que par l'experience. L'IA, à l'heure actuelle, ne sait *pas* faire de l'architecture logicielle (abstractions de haut niveau, contrôle des dépendances, modularité et préservation des interfaces). Les compétences de plus haut niveau, à l'échelle du système, seront pourtant les plus recherchées. Pour superviser correctement des agents et travailler dans ce nouveau contexte, vous aurez besoin d'expérience.
 
-> On entend souvent que l'IA est une *abstraction de plus*, comme le C le fut sur les langages assembleurs. Ce n'est pas vrai. Car la nature de l'artefact, contrairement à l'époque du passage à des langages *haut niveau*, ne change pas ! C'est toujours le même code, les mêmes primitives ! Une couche d'abstraction est *déterministe*, elle offre une interface et des garanties sur un service rendu
+> On entend souvent que l'IA est une *abstraction de plus*, comme le C le fut sur les langages assembleurs. Ce n'est pas vrai. Car la nature de l'artefact ne change pas, contrairement à l'époque du passage à des langages *haut niveau* ! C'est toujours le même code et les mêmes primitives ! Les LLM ne sont pas une couche d'abstraction *en langage naturel* sur les langages de programmation car une couche d'abstraction est *déterministe*.
 
-> Évidemment, cela dépendra de la *nature* de votre projet et de son *contexte*. Projet perso, produit, projet d'entreprise, projet pour apprendre, etc. Il n'y a aucun problème à déléguer entièrement le développement d'une application à une IA pour un projet perso si le but est seulement d'utiliser l'application, dans un contexte privé.
+> Évidemment, votre degré d'usage de l'IA doit dépendre de la *nature* de votre projet et de son *contexte*: projet perso, produit, projet d'entreprise, projet pour apprendre, etc. Il n'y a par exemple aucun problème à déléguer entièrement le développement d'une application à une IA pour un projet perso si le but est seulement d'utiliser l'application dans un contexte privé.
 
 ## IA ou pas, en tant que professionnel, à la fin, VOUS êtes responsable
 
@@ -143,7 +155,7 @@ Que vous produisiez le code ou qu'un programme comme une IA le génère pour vou
   - Comment allez-vous monter en compétences sur des domaines comme l'architecture logicielle, où l'intervention humaine est nécessaire ? Vous ne pouvez pas devenir architecte, developer une expertise de haut niveau, *sans expérience*! Pour cela, vous devez avoir eu l'occasion d'*expérimenter* (essais, erreurs, réussites). Les personnes avec du savoir-faire en architecture logicielle sont des personnes qui ont su se confronter aux problèmes *à toutes les échelles* et vont apporter beaucoup plus de valeur que vous
 - Vous savez utiliser les clients IA ? Utilisez des agents ? Plusieurs agents ? Vous avez un abonnement cher à un modèle puissant ? Vous travaillez *vite* ? **N'importe qui, en quelques heures, peut posséder ces outils et ces compétences !** Vous n'avez jamais été aussi **remplaçables** !
   - Salarié : qui choisir pour un poste entre un utilisateur d'IA sans compétences techniques et un utilisateur d'IA qui est également compétent et a de solides connaissances ?
-  - À votre compte : quelle est votre *expérience* ? Qu'est ce que vous *savez* ? Qu'est ce qui vous rend *intéressant* ? Quelles sont vos *idées*, vos plans, vos *perspectives* ? Pourquoi on aurait envie de travailler avec vous et de vous faire confiance ? 
+  - À votre compte : quelle est votre *expérience* ? Qu'est ce que vous *savez* ? Qu'est ce qui vous rend *intéressant* ? Quelles sont vos *idées*, vos plans, vos *perspectives* ? Pourquoi on aurait envie de travailler avec vous et de vous faire confiance ?
 
 ## Effets de l'usage inconsidéré de l'IA sur le long terme
 
