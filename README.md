@@ -250,7 +250,7 @@ Si vous remettez tout à votre IA *maintenant*, dans cet *espace*, *quand* allez
 - Utilisez l'IA mais faites un usage **responsable** (à vous de voir !). Utilisez là pour *amplifier* et non pour *remplacer*
 - N'oubliez pas les **intérêts des entreprises** à voir leur outils adoptés en masse ! Leurs intérêts ne sont pas *vos* intérêts (comme votre santé mentale). Attention au *story-telling* et aux spéculations. Lisez des articles et des retours d'expérience sérieux, loin de la hype et des influenceurs
 - Les personnes qui font des usages performants et utiles de l'IA sont des gens formés, qui ont des connaissances solides
-- Ne méprisez pas les fondamentaux, bien au contraire ! Ils vous resserviront *partout* car apprendre ce n'est pas "amasser" des compétences, c'est se *transformer* sur le chemin, c'est le chemin qui compte
+- Ne méprisez pas les fondamentaux, bien au contraire ! Ils vous resserviront *partout* car apprendre ce n'est pas "amasser" des compétences, ce n'est pas un acte d'*accumulation* mais de *transformation*. En apprenant, vous *créez des liens* entre ce que vous savez déjà et des nouvelles choses. Ces liens constituent le moteur de votre imagination et de votre capacité à résoudre des problèmes et inventer des solutions. Il s'agit de se *transformer* sur le chemin, c'est le *chemin* qui compte
 - Pour vous former à ce métier, programmez encore et toujours !
 - Soyez créatifs et prenez du *plaisir* !
 
