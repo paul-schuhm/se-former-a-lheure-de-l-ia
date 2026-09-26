@@ -58,6 +58,7 @@ Dépend du modèle, des sources sur lesquelles elle a été entraînée, *wrappe
   - Peu de données, problème moins connus, plus spécifiques : résultats mauvais, douteux et souvent incorrects ("hallucinations")
 - Dans les deux cas, **l'IA vous donnera une réponse, avec beaucoup d'assurance !**.
 - L'IA produit une réponse, **pas la meilleure possible pour votre use case** (sécurité, perfs, maintenabilité), ne s'embarrasse pas des compromis
+- L'IA peut *mentir* (contrairement à votre calculatrice ou votre compteur de vitesse). C'est la première fois dans l'histoire de l'humanité que vous devez apprendre à vous *méfier d'un outil*
 
 ## Là où l'IA brille
 
@@ -191,7 +192,6 @@ Si vous remettez tout à votre IA *maintenant*, dans cet *espace*, *quand* allez
 - Les fondamentaux ont toujours et seront toujours importants ! C'est ce qui fera de vous des meilleur·es programmeur·ses, IA ou non.
 - L'IA produit (déjà) du meilleur code que les humains sur *des modules de très petite taille* (fonction)/ petites tâches. Pour identifier du *bon* code, vous **devez savoir exactement ce que vous voulez et ne voulez PAS**. Comment allez-vous *juger* du résultat si vous n'avez pas de bases solides ni d'expérience ? Vous allez tout "gober" ?
 - L'IA est *impressionnante*, mais elle produit aussi de *très mauvaises choses* (*IA slop*) !
-- L'IA *ment* (contrairement à votre calculatrice ou votre compteur de vitesse). C'est la première fois dans l'histoire de l'humanité que vous devez apprendre à vous *méfier d'un outil*
 - Programmer et écrire du code : **acquérir du *how-to* knowledge** pour résoudre des nouveaux problèmes
 
 ## Effets de l'usage inconsidéré de l'IA sur le long terme
