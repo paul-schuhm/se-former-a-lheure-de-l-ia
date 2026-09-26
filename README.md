@@ -12,6 +12,32 @@ section {
 }
 </style> -->
 
+- [Développeur·se : Se former à l'heure de l'IA](#développeurse--se-former-à-lheure-de-lia)
+  - [Personne ne sait vraiment où nous en sommes et nous allons](#personne-ne-sait-vraiment-où-nous-en-sommes-et-nous-allons)
+  - [Faut-il toujours apprendre ?](#faut-il-toujours-apprendre-)
+  - [L'IA n'est pas déterministe](#lia-nest-pas-déterministe)
+  - [Une dépendance de plus](#une-dépendance-de-plus)
+  - [L'IA ne produit pas le meilleur résultat, elle cherche à *vous satisfaire*](#lia-ne-produit-pas-le-meilleur-résultat-elle-cherche-à-vous-satisfaire)
+  - [Là où l'IA brille](#là-où-lia-brille)
+  - [Là où elle brille moins](#là-où-elle-brille-moins)
+  - [L'IA amplifie et met à l'échelle vos compétences, ce que *vous êtes et savez*](#lia-amplifie-et-met-à-léchelle-vos-compétences-ce-que-vous-êtes-et-savez)
+  - [Ce qui ne change pas: l'artefact à produire est toujours le même](#ce-qui-ne-change-pas-lartefact-à-produire-est-toujours-le-même)
+  - [Code = spécifications](#code--spécifications)
+  - [De l'importance d'écrire du code](#de-limportance-décrire-du-code)
+  - [IA ou pas, en tant que professionnel, à la fin, VOUS êtes responsable](#ia-ou-pas-en-tant-que-professionnel-à-la-fin-vous-êtes-responsable)
+  - [Dans ce nouveau contexte, quelle *valeur* allez-vous apporter ?](#dans-ce-nouveau-contexte-quelle-valeur-allez-vous-apporter-)
+  - [Effets de l'usage inconsidéré de l'IA sur le long terme](#effets-de-lusage-inconsidéré-de-lia-sur-le-long-terme)
+  - [Faire la différence entre l'espace de formation (ici) et l'espace de production (entreprise)](#faire-la-différence-entre-lespace-de-formation-ici-et-lespace-de-production-entreprise)
+  - [Espace de formation : acquérir des compétences et du savoir (ensemble structuré de connaissances)](#espace-de-formation--acquérir-des-compétences-et-du-savoir-ensemble-structuré-de-connaissances)
+  - [Espace de production : produire de la valeur](#espace-de-production--produire-de-la-valeur)
+  - [Le biais de l'espace de formation](#le-biais-de-lespace-de-formation)
+  - [En formation](#en-formation)
+  - [Conseils sur l'usage de l'IA en formation](#conseils-sur-lusage-de-lia-en-formation)
+  - [Conclusion](#conclusion)
+  - [Quelques ressources utiles pour y réfléchir](#quelques-ressources-utiles-pour-y-réfléchir)
+    - [Les *classiques*, plus d'actualité que jamais](#les-classiques-plus-dactualité-que-jamais)
+
+
 # Développeur·se : Se former à l'heure de l'IA
 
 > Ma position et attitude face à l'IA et face à vous dans l'espace de formation.
