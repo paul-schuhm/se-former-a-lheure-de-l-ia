@@ -12,21 +12,21 @@ section {
 }
 </style> -->
 
-- [Développeur·se : Se former à l'heure de l'IA](#développeurse--se-former-à-lheure-de-lia)
+- [Programmation, développement informatique : se former à l'heure (à l'ère) de l'IA](#programmation-développement-informatique--se-former-à-lheure-à-lère-de-lia)
   - [Personne ne sait vraiment où nous en sommes et nous allons](#personne-ne-sait-vraiment-où-nous-en-sommes-et-nous-allons)
-  - [Faut-il toujours apprendre ?](#faut-il-toujours-apprendre-)
-  - [L'IA n'est pas déterministe](#lia-nest-pas-déterministe)
+  - [Faut-il toujours apprendre et se former ?](#faut-il-toujours-apprendre-et-se-former-)
   - [Une dépendance de plus](#une-dépendance-de-plus)
-  - [L'IA ne produit pas le meilleur résultat, elle cherche à *vous satisfaire*](#lia-ne-produit-pas-le-meilleur-résultat-elle-cherche-à-vous-satisfaire)
+  - [L'IA n'est pas déterministe](#lia-nest-pas-déterministe)
+  - [L'IA ne produit pas le meilleur résultat, elle produit toujours un résultat et elle cherche à *vous satisfaire*](#lia-ne-produit-pas-le-meilleur-résultat-elle-produit-toujours-un-résultat-et-elle-cherche-à-vous-satisfaire)
   - [Là où l'IA brille](#là-où-lia-brille)
-  - [Là où elle brille moins](#là-où-elle-brille-moins)
+  - [Là où elle brille moins (à l'heure actuelle)](#là-où-elle-brille-moins-à-lheure-actuelle)
   - [L'IA amplifie et met à l'échelle vos compétences, ce que *vous êtes et savez*](#lia-amplifie-et-met-à-léchelle-vos-compétences-ce-que-vous-êtes-et-savez)
   - [Ce qui ne change pas: l'artefact à produire est toujours le même](#ce-qui-ne-change-pas-lartefact-à-produire-est-toujours-le-même)
   - [Code = spécifications](#code--spécifications)
   - [De l'importance d'écrire du code](#de-limportance-décrire-du-code)
   - [IA ou pas, en tant que professionnel, à la fin, VOUS êtes responsable](#ia-ou-pas-en-tant-que-professionnel-à-la-fin-vous-êtes-responsable)
   - [Dans ce nouveau contexte, quelle *valeur* allez-vous apporter ?](#dans-ce-nouveau-contexte-quelle-valeur-allez-vous-apporter-)
-  - [Effets de l'usage inconsidéré de l'IA sur le long terme](#effets-de-lusage-inconsidéré-de-lia-sur-le-long-terme)
+  - [Effets de l'usage "inconsidéré" de l'IA sur le long terme](#effets-de-lusage-inconsidéré-de-lia-sur-le-long-terme)
   - [Faire la différence entre l'espace de formation (ici) et l'espace de production (entreprise)](#faire-la-différence-entre-lespace-de-formation-ici-et-lespace-de-production-entreprise)
   - [Espace de formation : acquérir des compétences et du savoir (ensemble structuré de connaissances)](#espace-de-formation--acquérir-des-compétences-et-du-savoir-ensemble-structuré-de-connaissances)
   - [Espace de production : produire de la valeur](#espace-de-production--produire-de-la-valeur)
@@ -37,8 +37,7 @@ section {
   - [Quelques ressources utiles pour y réfléchir](#quelques-ressources-utiles-pour-y-réfléchir)
     - [Les *classiques*, plus d'actualité que jamais](#les-classiques-plus-dactualité-que-jamais)
 
-
-# Développeur·se : Se former à l'heure de l'IA
+# Programmation, développement informatique : se former à l'heure (à l'ère) de l'IA
 
 > Ma position et attitude face à l'IA et face à vous dans l'espace de formation.
 
@@ -67,7 +66,7 @@ Programmer c'est :
 - Le métier de développeur·se ne disparaît pas, il *change* (comme bien d'autres)
 - Personne ne sait encore *comment* utiliser ces outils, expérimental, coûts/bénéfices
 
-## Faut-il toujours apprendre ?
+## Faut-il toujours apprendre et se former ?
 
 Évidemment !
 
@@ -75,6 +74,12 @@ Programmer c'est :
 - Apprendre, c'est se *frotter* au réel. De cette *friction*, naît une véritable *compréhension* des choses. Apprendre c'est acquérir de l'*expérience*
 - Déléguez une tâche à l'IA c'est *pratique*, *efficace*, mais ça ne crée *aucune expérience* de la tâche en question. Vous n'apprenez *rien* à le faire.
 - C'est votre *expérience* qui fait de vous quelqu'un·e d'*intéressant·e* (et avec qui on souhaiterait travailler !)
+
+## Une dépendance de plus
+
+- Comme lorsque vous utilisez un langage, un framework, une library, vous **déléguez quelque-chose à quelqu'un d'autre**. Et ici ce n'est pas rien, vous **déléguez une capacité de raisonnement et des compétences** !
+- Vous en **dépendez**. *Quid* si en panne ? Plus maintenue ? Modèle économique/tarif vous échappe ?
+- Une dépendance de plus, une raison de plus de casser !
 
 ## L'IA n'est pas déterministe
 
@@ -86,21 +91,15 @@ Programmer c'est :
 
 Dépend du modèle, des sources sur lesquelles elle a été entraînée, *wrapper/harness* (application cliente), etc.
 
-## Une dépendance de plus
+## L'IA ne produit pas le meilleur résultat, elle produit toujours un résultat et elle cherche à *vous satisfaire*
 
-- Comme lorsque vous utilisez un langage, un framework, une library, vous **déléguez quelque-chose à quelqu'un d'autre**. Et ici ce n'est pas rien, vous **déléguez une capacité de raisonnement et des compétences** !
-- Vous en **dépendez**. *Quid* si en panne ? Plus maintenue ? Modèle économique/tarif vous échappe ?
-- Une dépendance de plus, une raison de plus de casser !
-
-## L'IA ne produit pas le meilleur résultat, elle cherche à *vous satisfaire*
-
-- IA n'est pas *magique*, **renseignez-vous sur le fonctionnement de ces systèmes** et restez critiques
-- IA est **baisée** par son corpus d'entraînement :
+- IA n'est pas *magique*, renseignez-vous sur le fonctionnement de ces systèmes et restez critiques
+- IA est *baisée* par son corpus d'entraînement :
   - Beaucoup de données, problèmes connus et résolus des millions de fois : très bons résultats (hallucinations "positives")
   - Peu de données, problème moins connus, plus spécifiques : résultats mauvais, douteux et souvent incorrects ("hallucinations")
 - Dans les deux cas, **l'IA vous donnera une réponse, avec beaucoup d'assurance !**.
-- L'IA produit une réponse, **pas la meilleure possible pour votre use case** (sécurité, perfs, maintenabilité), ne s'embarrasse pas des compromis
-- L'IA peut *mentir* (contrairement à votre calculatrice ou votre compteur de vitesse). C'est la première fois dans l'histoire de l'humanité que vous devez apprendre à vous *méfier d'un outil*
+- L'IA produit une réponse, *pas la meilleure possible pour votre cas d'utilisation* (sécurité, perfs, maintenabilité), ne s'embarrasse pas toujours des compromis
+- L'IA peut *mentir* (contrairement à votre calculatrice ou votre compteur de vitesse). C'est la première fois dans l'histoire de l'humanité que vous devez apprendre à vous *méfier d'un outil*!
 
 ## Là où l'IA brille
 
@@ -114,7 +113,7 @@ Dépend du modèle, des sources sur lesquelles elle a été entraînée, *wrappe
 - **Code review**, explication de commandes, d'options, d'outils bien documentés
 - **Reformuler/Aide à l'écriture** : specifications, commentaires, doc
 
-## Là où elle brille moins
+## Là où elle brille moins (à l'heure actuelle)
 
 - Designer et implémenter des UI complexes
 - Le design avancé de systèmes
@@ -183,7 +182,7 @@ Le code agit comme un *réservoir de déterminisme*. Le code est *l'ultime spéc
   - Salarié : qui choisir pour un poste entre un utilisateur d'IA sans compétences techniques et un utilisateur d'IA qui est également compétent et a de solides connaissances ?
   - À votre compte : quelle est votre *expérience* ? Qu'est ce que vous *savez* ? Qu'est ce qui vous rend *intéressant* ? Quelles sont vos *idées*, vos plans, vos *perspectives* ? Pourquoi on aurait envie de travailler avec vous et de vous faire confiance ?
 
-## Effets de l'usage inconsidéré de l'IA sur le long terme
+## Effets de l'usage "inconsidéré" de l'IA sur le long terme
 
 - **Dette cognitive**/**Capitulation cognitive** : *attention*, plus vous déléguez vos efforts mentaux aux IA, plus il vous sera difficile de *réfléchir* ! Les effets à long terme de cette capitulation pourraient être dévastateurs, et sont déjà documentés par des études scientifiques
 - L'*impression* de comprendre, de maîtriser
@@ -221,20 +220,19 @@ Le code agit comme un *réservoir de déterminisme*. Le code est *l'ultime spéc
 
 ## Le biais de l'espace de formation
 
-- Le temps est limité
-- Exercices, TP, mini-projets, etc. : **petits systèmes**, systèmes **illustrant des points spécifiques**, **idéalisés**, **simplifiés**. **Loin des système réels** et *codebase* que vous rencontrerez en production
-- Départ *from scratch*, loin des systèmes *legacy*
-- **Problèmes classiques**, les bases, les fondamentaux
-- **Le monde réel** est beaucoup plus **complexe** !
+- Le temps est très limité
+- Les programmes abordés en exercices, TP, mini-projets, etc. sont des **petits systèmes**, systèmes **illustrant des points spécifiques**, **idéalisés**, **simplifiés**. **Loin des système réels** et *codebase* que vous rencontrerez dans le monde réel. Ils sont **connus**, de petite *taille*, de faible *dimension* : les IA y sont forcément *très* performantes
+- Départ *from scratch*, loin des systèmes *legacy* et de grande taille
+- *Problèmes classiques* et connus
+- Le monde réel est beaucoup plus *complexe* ! *The world is a mess and things go wrong!*
 
 ## En formation
 
-- Ne vous faites pas avoir par le *contexte* : là pour **apprendre**, **pas produire** !
-- Les problèmes que l'on aborde sont **connus**, de petite taille, de faible dimension: les IA y sont *très* performantes. C'est un biais.
+- Ne vous faites pas avoir par le *contexte* : là pour **apprendre**, **pas pour produire** !
 - Vous formez à comprendre **des classes de problème**, le **fonctionnement des technologies** qui vont rester : protocoles, fondamentaux (compilation, web, etc.), certains langages, etc.
 - **Apprendre à apprendre** !
 - Réfléchir au *design*, aux *procédures*, à votre manière d'aborder des problèmes, de **comprendre les compromis**, **savoir faire des choix**, développer un sens d'architecture logiciel et de *design*
-- L'apprentissage passe par la *friction*, buter facer à des problèmes, être capable de *les résoudre* et *montrer aux autres* que vous êtes *capables* de réaliser des choses qui demandent effort et réflexion
+- L'apprentissage passe par la *friction*, vous devez confronter votre compréhension aux faits, rencontrer des problèmes, être capable de *les résoudre* et *montrer aux autres* (communiquer) que vous êtes *capables* de réaliser des choses qui demandent effort et réflexion
 
 Si vous remettez tout à votre IA *maintenant*, dans cet *espace*, *quand* allez-vous vous former ? Quelle *expérience* aurez-vous acquise ? *Comment* allez-vous justifier vos compétences ? Qu'allez-vous *apporter* ?
 
