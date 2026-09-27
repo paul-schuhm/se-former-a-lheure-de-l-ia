@@ -72,13 +72,14 @@ Programmer c'est :
 
 ## Faut-il toujours apprendre et se former ?
 
+> "Acquérir par l'étude, par la pratique, par l'expérience une connaissance, un savoir-faire, *quelque chose d'utile*." (Larousse)
+
 Évidemment !
 
-- Apprendre, c'est résoudre des problèmes.
-- Apprendre, c'est se *frotter* au réel. De cette *friction*, naît une véritable *compréhension* des choses. Apprendre c'est acquérir de l'*expérience*
-- Déléguez une tâche à l'IA c'est *pratique*, *efficace*, mais ça ne crée *aucune expérience* de la tâche en question. Vous n'apprenez *rien* à le faire.
-- C'est votre *expérience* qui fait de vous quelqu'un·e d'*intéressant·e* (et avec qui on souhaiterait travailler !)
-- Vous devez vous former à comprendre *des classes de problèmes*, le *fonctionnement des technologies* utilisées (protocoles, compilateur, langages, algorithmes, etc.)
+- Apprendre, c'est se *frotter* au réel. C'est *laborieux*, cela demande des *efforts*. De cette *friction*, naît une *véritable compréhension* des choses. Apprendre c'est acquérir de l'*expérience*. C'est au contact des contraintes, des échecs que des connaissances se transforment en *savoir*, savoir-*faire*, puis en *intuition*.
+- Déléguez une tâche à l'IA c'est *pratique*, *efficace* (comme le côté obscur...) mais ça ne crée *aucune expérience* de la tâche en question. Vous n'apprenez *rien* à le faire.
+- C'est vos *expériences* qui feront de vous quelqu'un·e d'*intéressant·e* (et avec qui on souhaiterait travailler !)
+- Vous devez vous former à comprendre et résoudre *des classes de problèmes* et le *fonctionnement de technologies* (protocoles, compilateur, langages, algorithmes, etc.)
 - Vous devez *apprendre à apprendre* !
 
 ## Une dépendance de plus
