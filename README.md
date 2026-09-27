@@ -63,10 +63,9 @@ Programmer c'est :
 
 ## Personne ne sait vraiment où nous en sommes et nous allons
 
-> "Programmers know the value of everything and the *cost* of nothing."" (Rich Hickey)
 
-- L'IA pose (encore) un (nouveau) *défi* dans l'enseignement
-- L'industrie **change** (manière de travailler), **ce que produit l'industrie non** (code, déployer et gérer des machines)
+- L'IA pose (encore) un (nouveau) *défi* à l'enseignement
+- L'industrie change (manière de travailler), ce que produit l'industrie non (même code, mêmes machines, mêmes techniques)
 - Le métier de développeur·se ne disparaît pas, il *change* (comme bien d'autres)
 - Personne ne sait encore *comment* utiliser ces outils, expérimental, coûts/bénéfices
 
@@ -84,9 +83,12 @@ Programmer c'est :
 
 ## Une dépendance de plus
 
-- Comme lorsque vous utilisez un langage, un framework, une library, vous **déléguez quelque-chose à quelqu'un d'autre**. Et ici ce n'est pas rien, vous **déléguez une capacité de raisonnement et des compétences** !
+> "Programmers know the value of everything and the *cost* of nothing."" (Rich Hickey)
+
+
+- Comme lorsque vous utilisez un langage, un framework, une library, vous *déléguez quelque-chose à quelqu'un d'autre*. Et ici ce n'est pas rien, vous déléguez **une capacité de raisonnement** et vos compétences ! Vous externalisez votre savoir-faire et votre capacité à réfléchir par vous-même
 - Vous en **dépendez**. *Quid* si en panne ? Plus maintenue ? Modèle économique/tarif vous échappe ?
-- Une dépendance de plus, une raison de plus de casser !
+- Une dépendance de plus, une raison de plus de *casser* !
 
 ## L'IA n'est pas déterministe
 
