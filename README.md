@@ -142,6 +142,8 @@ Dépend du modèle, des sources sur lesquelles elle a été entraînée, *wrappe
 
 >"AI has not changed the way software is built. Code is written using the same syntax, version controlled using the same version control systems, compiled using the same compilers, deployed to the same servers, and neglected by the same developers." (Kesley Hightower)
 
+> On entend souvent que l'IA est une *abstraction de plus*, comme le C le fut sur les langages assembleurs. Ce n'est pas vrai. Car la nature de l'artefact ne change pas, contrairement à l'époque du passage à des langages *haut niveau* ! C'est toujours le même code et les mêmes primitives ! Les LLM ne sont pas une couche d'abstraction *en langage naturel* sur les langages de programmation car une couche d'abstraction est *déterministe*.
+
 Que vous produisiez le code ou qu'un programme comme une IA le génère pour vous, à la fin, ce que vous devez produire, c'est toujours *du code*.
 
 ## Code = spécifications
@@ -159,19 +161,16 @@ Le code agit comme un *réservoir de déterminisme*. Le code est *l'ultime spéc
 - Si vous déléguez toujours davantage l'écriture du code à l'IA, en plus de perdre la connaissance du système, vous allez, mécaniquement, écrire de moins en moins de code vous-même. Vous serez donc de moins en moins capable de *lire* et de *juger correctement* du code. Les revues de code vont devenir difficiles ou inutiles. Mécaniquement, vous perdrez le contrôle sur votre système (une forme d'*illettrisme* ?)
 - Écrire du code permet d'acquérir de l'*expérience*. Des compétences en architecture logicielle ne s’acquièrent que par l'experience. L'IA, à l'heure actuelle, ne sait *pas* faire de l'architecture logicielle (abstractions de haut niveau, contrôle des dépendances, modularité et préservation des interfaces). Les compétences de plus haut niveau, à l'échelle du système, seront pourtant les plus recherchées. Pour superviser correctement des agents et travailler dans ce nouveau contexte, vous aurez besoin d'expérience.
 
-> On entend souvent que l'IA est une *abstraction de plus*, comme le C le fut sur les langages assembleurs. Ce n'est pas vrai. Car la nature de l'artefact ne change pas, contrairement à l'époque du passage à des langages *haut niveau* ! C'est toujours le même code et les mêmes primitives ! Les LLM ne sont pas une couche d'abstraction *en langage naturel* sur les langages de programmation car une couche d'abstraction est *déterministe*.
-
 > Évidemment, votre degré d'usage de l'IA doit dépendre de la *nature* de votre projet et de son *contexte*: projet perso, produit, projet d'entreprise, projet pour apprendre, etc. Il n'y a par exemple aucun problème à déléguer entièrement le développement d'une application à une IA pour un projet perso si le but est seulement d'utiliser l'application dans un contexte privé.
 
 ## IA ou pas, en tant que professionnel, à la fin, VOUS êtes responsable
 
-- "Ça marche" n'est pas suffisant ! N'importe qui peut produire quelque chose qui "fonctionne" ! Produire quelque chose qui fonctionne *correctement*, de manière sécurisée, performante et qui peut évoluer n'est pas à la portée de tout le monde car cela demande de l'**expertise**.
-- Vous et **vous seul·e êtes responsable** du code que vous publiez !
-- Aucune IA ne portera le blame en cas de problème !
+- "Ça marche" n'est pas suffisant ! N'importe qui peut produire quelque chose qui "marche" ! Produire quelque chose qui fonctionne *correctement*, de manière sécurisée, performante et qui peut *évoluer* n'est pas à la portée de tout le monde car cela demande de l'*expertise* et du savoir-faire.
+- Vous et **vous seul·e êtes responsable** du code que vous publiez ! Aucune IA ne portera le blame en cas de problème !
 - **La confiance est une affaire humaine**, ce n'est pas une question technologique.
 - Soyez responsables de vos actes, auprès de **vos clients**, auprès de **vos collègues**.
 - Imaginez que votre système tombe en panne ou que l'on trouve une faille critique à corriger (ce qui arrivera) et que votre LLM est momentanément indisponible, que faites-vous ? Si vous ne savez pas faire votre travail sans ces outils cela est très embarrassant
-- Si vous ne prenez pas le temps de le faire, pourquoi prendre le temps d'utiliser votre système ? Si vous ne prenez pas la peine d'écrire, on ne prendra pas la peine de vous lire
+- Si vous ne prenez pas le temps de le faire, pourquoi prendre le temps d'utiliser ou de chercher à comprendre votre système ? Si vous ne prenez pas la peine d'écrire, on ne prendra pas la peine de vous lire
 
 ## Dans ce nouveau contexte, quelle *valeur* allez-vous apporter ?
 
