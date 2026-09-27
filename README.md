@@ -42,19 +42,24 @@ section {
 
 Le but de ce métier est de résoudre des problèmes spécifiques pour vos clients en *designant* et *produisant* un système (des programmes) *fiable*, *compréhensible*, *sécurisé* et *performant*. Vous êtes, ou allez devenir, *des professionnel·es*: on attend de vous (et on vous paie pour) des produits et des prestations de *qualité professionnelle*.
 
+>"Computer science is a terrible name for this business... First of all, it's not a science... It's also not really very much about computers [...] The computer revolution is a revolution in the way we think and in the way we express what we think. The essence of this change is the emergence of what might best be called "procedural epistemology", the study of the structure of knowledge from an imperative point of view [...]. Computation provides a framework for dealing precisely with notions of *how to*" (Harold Abelson)
+
 Programmer c'est :
 
 - apprendre à réfléchir
 - réfléchir
 - comprendre
-- travailler des besoins
+- recueillir et travailler des besoins
 - analyser un problème (découper un nouveau problème en plusieurs petits problèmes connus ou trouver de nouveaux problèmes)
 - découvrir les bons processus
 - *designer* un système
 - faire des *compromis*
 - écrire du code (spécification)
+- lire
+- lire beaucoup de code
 - communiquer
 - déployer et monitorer (comprendre et corriger le comportement à l'exécution)
+- utiliser des outils spécifiques
 
 ## Personne ne sait vraiment où nous en sommes et nous allons
 
@@ -73,6 +78,8 @@ Programmer c'est :
 - Apprendre, c'est se *frotter* au réel. De cette *friction*, naît une véritable *compréhension* des choses. Apprendre c'est acquérir de l'*expérience*
 - Déléguez une tâche à l'IA c'est *pratique*, *efficace*, mais ça ne crée *aucune expérience* de la tâche en question. Vous n'apprenez *rien* à le faire.
 - C'est votre *expérience* qui fait de vous quelqu'un·e d'*intéressant·e* (et avec qui on souhaiterait travailler !)
+- Vous devez vous former à comprendre *des classes de problèmes*, le *fonctionnement des technologies* utilisées (protocoles, compilateur, langages, algorithmes, etc.)
+- Vous devez *apprendre à apprendre* !
 
 ## Une dépendance de plus
 
@@ -92,12 +99,12 @@ Dépend du modèle, des sources sur lesquelles elle a été entraînée, *wrappe
 
 ## L'IA ne produit pas le meilleur résultat, elle produit toujours un résultat et elle cherche à *vous satisfaire*
 
-- IA n'est pas *magique*, renseignez-vous sur le fonctionnement de ces systèmes et restez critiques
-- IA est *baisée* par son corpus d'entraînement :
+- L'IA n'est pas *magique*, ces outils sont développés par des entreprises avec des intérêts précis, renseignez-vous sur le fonctionnement de ces systèmes et restez critiques
+- L'IA est *biaisée* par son corpus d'entraînement :
   - Beaucoup de données, problèmes connus et résolus des millions de fois : très bons résultats (hallucinations "positives")
-  - Peu de données, problème moins connus, plus spécifiques : résultats mauvais, douteux et souvent incorrects ("hallucinations")
-- Dans les deux cas, **l'IA vous donnera une réponse, avec beaucoup d'assurance !**.
-- L'IA produit une réponse, *pas la meilleure possible pour votre cas d'utilisation* (sécurité, perfs, maintenabilité), ne s'embarrasse pas toujours des compromis
+  - Peu de données, problème moins connus, plus spécifiques : résultats plus douteux et souvent incorrects ("hallucinations")
+- Dans les deux cas, **l'IA vous donnera une réponse, avec beaucoup d'assurance !**
+- L'IA produit *toujours* une réponse, *pas la meilleure possible* pour votre cas d'utilisation (sécurité, perfs, maintenabilité)
 - L'IA peut *mentir* (contrairement à votre calculatrice ou votre compteur de vitesse). C'est la première fois dans l'histoire de l'humanité que vous devez apprendre à vous *méfier d'un outil*!
 
 ## Là où l'IA brille
@@ -139,19 +146,15 @@ Que vous produisiez le code ou qu'un programme comme une IA le génère pour vou
 
 ## Code = spécifications
 
->"Code has two distinct but intertwined purposes : **instructions** to a machine and a **conceptual model** of the problem domain" (Unmesh Joshi)
-
 >"Programs must be written for people to read, and only incidentally for machines to execute." (Harold Abelson)
 
 Le code agit comme un *réservoir de déterminisme*. Le code est *l'ultime spécification*.
 
->"Écrire du code" n'a JAMAIS été le problème
-
 ## De l'importance d'écrire du code
 
->"Computer science is a terrible name for this business... First of all, it's not a science... It's also not really very much about computers [...] The computer revolution is a revolution in the way we think and in the way we express what we think. The essence of this change is the emergence of what might best be called "procedural epistemology", the study of the structure of knowledge from an imperative point of view [...]. Computation provides a framework for dealing precisely with notions of **how to**" (Harold Abelson)
+>"Code has two distinct but intertwined purposes : **instructions** to a machine and a **conceptual model** of the problem domain" (Unmesh Joshi)
 
-- *Programmer* ce n'est pas qu'*écrire du code*. Et *écrire du code* ce n'est pas que *taper des caractères* sur un clavier. Le code est le *produit* final d'un *processus* de réflexion. C'est à la fois un ensemble d'*instructions* et un *modèle conceptuel du problème* (*How-to knowledge*). *Coder* c'est apprendre à *spécifier* une solution. La production du code n'est pas réductible à l'acte de *taper à la machine* : c'est le *résultat* d'un *engagement* et d'un processus *mental* et *physique* important. A la fin de ce processus, en plus d'avoir spécifier la solution, vous avez produit *un modèle mental* du système. Le code est la *réification* de ce modèle mental et la seule chose que vous pouvez *réellement* partager pour communiquer votre compréhension du système. Le code est *la seule chose qu'il reste* quand tout le reste est parti
+- *Programmer* ce n'est pas qu'*écrire du code*. Et *écrire du code* ce n'est pas que *taper des caractères* sur un clavier. Le code est le *produit* final d'un *processus* de réflexion. C'est à la fois un ensemble d'*instructions* et un *modèle conceptuel du problème* (*How-to knowledge*). *Coder* est un acte de *traduction* (encoder) depuis les images mentales et langage naturel vers un langage former. Vous devez définir un processus encore imaginaire avec rigueur. Vous devez saisir de manière *complète* l'*idée* que vous avez d'un processus, dans un langage qui ne vous autorise aucune ambiguïté. Et souvent, vous allez vous rendre compte que cette idée est incomplète et le langage qui vous est donné va vous aider à la préciser. Coder c'est apprendre à *spécifier* une solution *si clairement* qu'elle devient automatisable. Ces allers-retours, entre votre modèle mental et le code, dans ce geste en apparence si mécanique de "taper à la machine", forme une expérience nécessaire et importante pour apprendre à faire ce travail. La production du code n'est *pas* réductible à l'acte de *taper à la machine* : c'est le *résultat* d'un *engagement* et d'un processus *mental* et *physique* important. A la fin de ce processus, en plus d'avoir spécifier la solution, vous avez produit *un modèle mental* du système. Le code est la *réification* de ce modèle mental et la seule chose que vous pouvez *réellement* partager pour communiquer votre compréhension du système. Le code est *la seule chose qu'il reste* quand tout le reste est parti
 - Le code produit par une IA n'est pas *votre* code. C'est un code avec lequel vous n'avez aucun *engagement*, comme un code produit par un ancien collègue parti depuis longtemps. La *théorie*, la *connaissance* de ce code est *partie* ou n'a jamais existé. Comprendre et modifier ce code va être pénible et difficile. Il serait alors tentant de laisser faire une IA sans s'engager. Mais le résultat est d'*amplifier* le problème initial.
 - Si vous déléguez toujours davantage l'écriture du code à l'IA, en plus de perdre la connaissance du système, vous allez, mécaniquement, écrire de moins en moins de code vous-même. Vous serez donc de moins en moins capable de *lire* et de *juger correctement* du code. Les revues de code vont devenir difficiles ou inutiles. Mécaniquement, vous perdrez le contrôle sur votre système (une forme d'*illettrisme* ?)
 - Écrire du code permet d'acquérir de l'*expérience*. Des compétences en architecture logicielle ne s’acquièrent que par l'experience. L'IA, à l'heure actuelle, ne sait *pas* faire de l'architecture logicielle (abstractions de haut niveau, contrôle des dépendances, modularité et préservation des interfaces). Les compétences de plus haut niveau, à l'échelle du système, seront pourtant les plus recherchées. Pour superviser correctement des agents et travailler dans ce nouveau contexte, vous aurez besoin d'expérience.
@@ -227,17 +230,15 @@ Le code agit comme un *réservoir de déterminisme*. Le code est *l'ultime spéc
 
 ## Conseils sur l'usage de l'IA en formation
 
-- L'apprentissage passe par la *friction*, vous devez confronter votre compréhension aux faits, rencontrer des problèmes, être capable de *les résoudre* et *montrer aux autres* (communiquer) que vous êtes *capables* de réaliser des choses qui demandent effort et réflexion
-- Ne vous faites pas avoir par le *contexte* : là pour **apprendre**, **pas pour produire** ! Oh, ne vous inquiétez pas, vous aurez tout le temps d'être productif dans le monde du travail !
-- Vous formez à comprendre **des classes de problème**, le **fonctionnement des technologies** qui vont rester : protocoles, fondamentaux (compilation, web, etc.), certains langages, etc.
-- **Apprendre à apprendre** !
-- Réfléchir au *design*, aux *procédures*, à votre manière d'aborder des problèmes, de **comprendre les compromis**, **savoir faire des choix**, développer un sens d'architecture logiciel et de *design*
-- Programmez et écrivez du code : vous allez **acquérir du *how-to* knowledge** pour résoudre des nouveaux problèmes. Programmer et écrire du code, c'est le meilleur et **unique moyen de comprendre**, tester, faire des erreurs, se forger des intuitions sur des processus, prendre du plaisir. Il se passe quelque-chose d'important dans votre tête quand vous implémentez une solution, c'est là que l'on découvre *la forme* du problème
-- Il y aura *toujours* du code ! Si demain on va passer moins de temps à *écrire du code*, on va passer (encore) plus de temps à *gérer et évaluer du code* produit par l'IA. On a toujours passé plus de temps à lire et écrire du code ! Comment juger de la qualité du code sans connaissances, ni expérience, sans en écrire vous-même ?
-- Les fondamentaux ont toujours et seront toujours importants ! C'est ce qui fera de vous des meilleur·es programmeur·ses, IA ou non.
-- L'IA produit (déjà) du meilleur code que les humains sur *des modules de très petite taille* (fonction)/ petites tâches. Pour identifier du *bon* code, vous devez savoir exactement ce que *bon* signifie ! Vous devez savoir ce que vous voulez et ne voulez PAS. Comment allez-vous *juger* du résultat si vous n'avez pas de bases solides ni d'expérience ? Vous allez tout "gober" ?
-- L'IA est *impressionnante*, mais elle produit aussi de *très mauvaises choses* (*IA slop*) !
-- N'utilisez pas d'IA pour les problèmes *nouveaux*, que vous n'avez pas essayé de comprendre d'abord ou déjà résolus
+- L'apprentissage passe par la *friction*, **confrontez votre compréhension aux faits**, rencontrer des problèmes (*errors are good!*), être capable de *les résoudre* et *montrer aux autres* (communiquer) que vous êtes *capable* de réaliser des choses qui demandent effort et réflexion
+- Ne vous trompez pas de *contexte* : vous êtes là pour *apprendre*, *pas pour produire* ! Oh, ne vous inquiétez pas, vous aurez tout le temps d'être productif dans le monde du travail !
+- Comprenez les compromis, *identifiez* les *avantages et inconvénients* de *vos choix*
+- Programmez et écrivez du code : vous allez acquérir du *how-to knowledge* pour résoudre des nouveaux problèmes. Programmer et écrire du code, c'est le meilleur et **unique moyen de comprendre**, tester, faire des erreurs, se forger des intuitions sur des processus et d'y prendre du plaisir. Il se passe quelque-chose d'important dans votre tête quand vous implémentez une solution ou fixez un bug
+- Il y aura *toujours* du code ! Si demain on va passer moins de temps à *écrire du code*, on va passer (encore) plus de temps à *gérer et évaluer du code* produit par l'IA. Mais on a toujours passé plus de temps à lire qu'à écrire du code ! On passe plus de temps à lire notre code que les interpréteurs ou compilateurs. Comment juger de la qualité du code sans connaissances, ni expérience, sans en écrire vous-même ?
+- Travaillez les fondamentaux. C'est ce qui fera de vous des meilleur·es programmeur·ses, IA ou non.
+- L'IA produit (déjà) du meilleur code que les humains sur *des modules de très petite taille* (fonction) ou de petites tâches bien contextualisées. Pour identifier du *bon* code, vous devez savoir exactement ce que *bon* signifie ! Vous devez savoir ce que vous voulez et ne voulez PAS. Comment allez-vous *juger* du résultat si vous n'avez pas de bases solides ni d'expérience ? Vous allez tout "gober" ?
+- L'IA est *impressionnante*, mais elle produit aussi de *très mauvaises choses* (*IA slop*) et fait des erreurs en permanence (qui peuvent être parfois subtiles) !
+- N'utilisez pas d'IA pour les problèmes *nouveaux*, réfléchissez d'abord
 - **Lire**, **comprendre** et **vérifiez toutes les solutions, instructions proposées par l'IA**
 - Des périodes régulières de programmation sans l'aide de l'IA. Faites *reviewer* **ensuite** votre code par une IA pour **découvrir** des failles dans votre code et votre raisonnement. Pour **apprendre**, **corriger**.
 - Aux solutions proposées, **demandez s'il existe des solutions alternatives**. Plutôt que de demander à l'IA une réponse directe, lui demander **plusieurs approches** avec leurs **avantages et inconvénients**. Cela force la compréhension des compromis et produit souvent de meilleures réponses.
@@ -247,12 +248,12 @@ Si vous remettez tout à votre IA *maintenant*, dans cet *espace*, *quand* allez
 ## Conclusion
 
 - Ne confondez pas **temps de formation** et **temps de production**
-- Utilisez l'IA mais faites un usage **responsable** (à vous de voir !). Utilisez là pour *amplifier* et non pour *remplacer*
-- N'oubliez pas les **intérêts des entreprises** à voir leur outils adoptés en masse ! Leurs intérêts ne sont pas *vos* intérêts (comme votre santé mentale). Attention au *story-telling* et aux spéculations. Lisez des articles et des retours d'expérience sérieux, loin de la hype et des influenceurs
+- Utilisez l'IA mais faites un usage *responsable*. Utilisez là pour *amplifier* et non pour *remplacer*
+- N'oubliez pas les **intérêts des entreprises** à voir leur outils adoptés en masse ! Leurs intérêts ne sont pas *vos* intérêts (comme votre santé mentale ou votre experience). Attention au *story-telling* et aux spéculations. Lisez des articles et des retours d'expérience sérieux, loin de la hype et des influenceurs
 - Les personnes qui font des usages performants et utiles de l'IA sont des gens formés, qui ont des connaissances solides
-- Ne méprisez pas les fondamentaux, bien au contraire ! Ils vous resserviront *partout* car apprendre ce n'est pas "amasser" des connaissances, ce n'est pas un acte d'*accumulation* mais de *transformation*. En apprenant, vous *créez des liens* entre ce que vous savez déjà et des nouvelles choses. Ces liens constituent le socle de votre imagination et de votre capacité à résoudre des problèmes et inventer des solutions. Il s'agit de se *transformer* sur le chemin, c'est le *chemin* qui compte
+- Ne méprisez pas les fondamentaux, bien au contraire ! Ils vous resserviront *partout* car apprendre ce n'est pas "amasser" des connaissances, ce n'est pas un acte d'*accumulation* mais de *transformation*. En apprenant, vous *créez des liens* entre ce que vous savez déjà et des nouvelles choses. Ces liens constituent le socle de votre imagination et de votre capacité à résoudre des problèmes et à inventer des solutions. Il s'agit de se *transformer* sur le chemin, c'est le *chemin* qui compte
 - Pour vous former à ce métier, programmez encore et toujours !
-- Soyez créatifs et prenez du *plaisir* !
+- Soyez créatif·ves et prenez du *plaisir* !
 
 ## Quelques ressources utiles pour y réfléchir
 
