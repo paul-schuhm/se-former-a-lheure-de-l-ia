@@ -42,32 +42,30 @@ section {
 
 Le but de ce métier est de résoudre des problèmes spécifiques pour vos clients en *designant* et *produisant* un système (des programmes) *fiable*, *compréhensible*, *sécurisé* et *performant*. Vous êtes, ou allez devenir, *des professionnel·es*: on attend de vous (et on vous paie pour) des produits et des prestations de *qualité professionnelle*.
 
->"Computer science is a terrible name for this business... First of all, it's not a science... It's also not really very much about computers [...] The computer revolution is a revolution in the way we think and in the way we express what we think. The essence of this change is the emergence of what might best be called "procedural epistemology", the study of the structure of knowledge from an imperative point of view [...]. Computation provides a framework for dealing precisely with notions of *how to*" (Harold Abelson)
-
 Programmer c'est :
 
 - apprendre à réfléchir
-- réfléchir
+- réfléchir *clairement*
 - comprendre
-- recueillir et travailler des besoins
-- analyser un problème (découper un nouveau problème en plusieurs petits problèmes connus ou trouver de nouveaux problèmes)
-- découvrir les bons processus
+- recueillir et travailler des besoins (enquête)
+- *analyser* un problème (découper un nouveau problème en plusieurs petits problèmes connus ou trouver de nouveaux problèmes)
+- découvrir les *bons* processus
 - *designer* un système
 - faire des *compromis*
-- écrire du code (spécification)
-- lire
-- lire beaucoup de code
+- écrire du code (*spécifications*)
+- lire/lire beaucoup de code
 - communiquer
 - déployer et monitorer (comprendre et corriger le comportement à l'exécution)
-- utiliser des outils spécifiques
+- utiliser des outils techniques et spécifiques
+
+>"Computer science is a terrible name for this business... First of all, it's not a science... It's also not really very much about computers [...] The computer revolution is a revolution in the way we think and in the way we express what we think. The essence of this change is the emergence of what might best be called "procedural epistemology", the study of the structure of knowledge from an imperative point of view [...]. Computation provides a framework for dealing precisely with notions of *how to*" (Harold Abelson)
 
 ## Personne ne sait vraiment où nous en sommes et nous allons
 
-
-- L'IA pose (encore) un (nouveau) *défi* à l'enseignement
+- L'IA pose un (nouveau) *défi* à l'enseignement
 - L'industrie change (manière de travailler), ce que produit l'industrie non (même code, mêmes machines, mêmes techniques)
 - Le métier de développeur·se ne disparaît pas, il *change* (comme bien d'autres)
-- Personne ne sait encore *comment* utiliser ces outils, expérimental, coûts/bénéfices
+- Personne ne sait encore *comment* utiliser correctement ces outils, expérimental, coûts/bénéfices
 
 ## Faut-il toujours apprendre et se former ?
 
@@ -85,8 +83,7 @@ Programmer c'est :
 
 > "Programmers know the value of everything and the *cost* of nothing."" (Rich Hickey)
 
-
-- Comme lorsque vous utilisez un langage, un framework, une library, vous *déléguez quelque-chose à quelqu'un d'autre*. Et ici ce n'est pas rien, vous déléguez **une capacité de raisonnement** et vos compétences ! Vous externalisez votre savoir-faire et votre capacité à réfléchir par vous-même
+- Comme lorsque vous utilisez un langage, un framework, une bibliothèque, vous *déléguez quelque-chose à quelqu'un d'autre*. Et ici ce n'est pas rien, vous déléguez **une capacité de raisonnement** et vos compétences ! Vous externalisez votre savoir-faire et votre capacité à réfléchir par vous-même
 - Vous en **dépendez**. *Quid* si en panne ? Plus maintenue ? Modèle économique/tarif vous échappe ?
 - Une dépendance de plus, une raison de plus de *casser* !
 
@@ -108,7 +105,7 @@ Dépend du modèle, des sources sur lesquelles elle a été entraînée, *wrappe
   - Peu de données, problème moins connus, plus spécifiques : résultats plus douteux et souvent incorrects ("hallucinations")
 - Dans les deux cas, **l'IA vous donnera une réponse, avec beaucoup d'assurance !**
 - L'IA produit *toujours* une réponse, *pas la meilleure possible* pour votre cas d'utilisation (sécurité, perfs, maintenabilité)
-- L'IA peut *mentir* (contrairement à votre calculatrice ou votre compteur de vitesse). C'est la première fois dans l'histoire de l'humanité que vous devez apprendre à vous *méfier d'un outil*!
+- L'IA peut **mentir** (contrairement à votre calculatrice ou votre compteur de vitesse). C'est la première fois dans l'histoire de l'humanité que vous devez apprendre à vous *méfier d'un outil*!
 
 ## Là où l'IA brille
 
@@ -127,7 +124,6 @@ Dépend du modèle, des sources sur lesquelles elle a été entraînée, *wrappe
 - Designer et implémenter des UI complexes
 - Le design avancé de systèmes
 - La sécurité des applications
-- Le design de schémas de DB
 - Débugage *profond*
 - Réduction de la codebase
 - Architecture logicielle (**préserver les interfaces** de vos modules)
@@ -138,14 +134,14 @@ Dépend du modèle, des sources sur lesquelles elle a été entraînée, *wrappe
 <img src="./assets/amplifie.svg" width="600">
 
 - Ne négligez pas **les fondamentaux**, bien au contraire !
-- Les produits de l'IA *reflètent votre niveau de compétences* (input) ! Meilleur *input*, meilleur *output* !
-- Si vous faites mal votre travail, vous le ferez juste mal *plus vite*, *plus fort* !
+- Les artefacts de l'IA vont *refléter votre niveau de compétences* (input) ! Meilleur *input*, meilleur *output* !
+- Si vous faites *mal* votre travail, vous le ferez juste mal *plus vite*, *plus fort* !
 
 ## Ce qui ne change pas: l'artefact à produire est toujours le même
 
 >"AI has not changed the way software is built. Code is written using the same syntax, version controlled using the same version control systems, compiled using the same compilers, deployed to the same servers, and neglected by the same developers." (Kesley Hightower)
 
-> On entend souvent que l'IA est une *abstraction de plus*, comme le C le fut sur les langages assembleurs. Ce n'est pas vrai. Car la nature de l'artefact ne change pas, contrairement à l'époque du passage à des langages *haut niveau* ! C'est toujours le même code et les mêmes primitives ! Les LLM ne sont pas une couche d'abstraction *en langage naturel* sur les langages de programmation car une couche d'abstraction est *déterministe*.
+> On entend souvent que l'IA est une *abstraction de plus*, comme le C le fut sur les langages assembleurs. Ce n'est pas vrai. Car la nature de l'artefact ne change pas, contrairement à l'époque du passage à des langages *haut niveau* ! C'est toujours le même code et les mêmes primitives ! Les LLM ne sont pas une couche d'abstraction *en langage naturel* sur les langages de programmation car une couche d'abstraction est *déterministe*. Le langage naturel est *par définition* *ambigu*, d'où la création de langages de programmation, des langages aux concepts réduits et bien définis permettant d'être traduits en instructions machines de manière déterministe. Un LLM n'est ni un *compilateur* ni un *interpréteur*.
 
 Que vous produisiez le code ou qu'un programme comme une IA le génère pour vous, à la fin, ce que vous devez produire, c'est toujours *du code*.
 
@@ -253,7 +249,7 @@ Si vous remettez tout à votre IA *maintenant*, dans cet *espace*, *quand* allez
 
 - Ne confondez pas **temps de formation** et **temps de production**
 - Utilisez l'IA mais faites un usage *responsable*. Utilisez là pour *amplifier* et non pour *remplacer*
-- N'oubliez pas les **intérêts des entreprises** à voir leur outils adoptés en masse ! Leurs intérêts ne sont pas *vos* intérêts (comme votre santé mentale ou votre experience). Attention au *story-telling* et aux spéculations. Lisez des articles et des retours d'expérience sérieux, loin de la hype et des influenceurs
+- N'oubliez pas les **intérêts des entreprises** à voir leur outils adoptés en masse ! Leurs intérêts ne sont pas *vos* intérêts (comme votre santé mentale ou votre experience). Attention au *story-telling* et aux spéculations. Lisez des articles et des retours d'expérience sérieux, loin de la *hype* et des influenceurs
 - Les personnes qui font des usages performants et utiles de l'IA sont des gens formés, qui ont des connaissances solides
 - Ne méprisez pas les fondamentaux, bien au contraire ! Ils vous resserviront *partout* car apprendre ce n'est pas "amasser" des connaissances, ce n'est pas un acte d'*accumulation* mais de *transformation*. En apprenant, vous *créez des liens* entre ce que vous savez déjà et des nouvelles choses. Ces liens constituent le socle de votre imagination et de votre capacité à résoudre des problèmes et à inventer des solutions. Il s'agit de se *transformer* sur le chemin, c'est le *chemin* qui compte
 - Pour vous former à ce métier, programmez encore et toujours !
