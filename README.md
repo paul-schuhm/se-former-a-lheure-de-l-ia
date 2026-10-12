@@ -237,18 +237,18 @@ Le code agit comme un *réservoir de déterminisme*. Le code est *l'ultime spéc
 - Il y aura *toujours* du code ! Si demain on va passer moins de temps à *écrire du code*, on va passer (encore) plus de temps à *gérer et évaluer du code* produit par l'IA. Mais on a toujours passé plus de temps à lire qu'à écrire du code ! On passe plus de temps à lire notre code que les interpréteurs ou compilateurs. Comment juger de la qualité du code sans connaissances, ni expérience, sans en écrire vous-même ?
 - Travaillez les fondamentaux. C'est ce qui fera de vous des meilleur·es programmeur·ses, IA ou non.
 - L'IA produit (déjà) du meilleur code que les humains sur *des modules de très petite taille* (fonction) ou de petites tâches bien contextualisées. Pour identifier du *bon* code, vous devez savoir exactement ce que *bon* signifie ! Vous devez savoir ce que vous voulez et ne voulez PAS. Comment allez-vous *juger* du résultat si vous n'avez pas de bases solides ni d'expérience ? Vous allez tout "gober" ?
-- L'IA est *impressionnante*, mais elle produit aussi de *très mauvaises choses* (*IA slop*) et fait des erreurs en permanence (qui peuvent être parfois subtiles) !
-- N'utilisez pas d'IA pour les problèmes *nouveaux*, réfléchissez d'abord
+- L'IA est *impressionnante*, mais elle produit aussi de *très mauvaises choses* (*IA slop*) et commet régulièrement des erreurs. Ces erreurs sont parfois *subtiles* (mai bien réelles!) et vous échaperont si vous n'avez pas une certaine expérience !
+- N'utilisez pas d'IA pour les problèmes *nouveaux*, réfléchissez *d'abord*
 - **Lire**, **comprendre** et **vérifiez toutes les solutions, instructions proposées par l'IA**
-- Des périodes régulières de programmation sans l'aide de l'IA. Faites *reviewer* **ensuite** votre code par une IA pour **découvrir** des failles dans votre code et votre raisonnement. Pour **apprendre**, **corriger**.
-- Aux solutions proposées, **demandez s'il existe des solutions alternatives**. Plutôt que de demander à l'IA une réponse directe, lui demander **plusieurs approches** avec leurs **avantages et inconvénients**. Cela force la compréhension des compromis et produit souvent de meilleures réponses.
+- Vous pouvez essayer des périodes de programmation sans l'aide de l'IA. Faites *reviewer* **ensuite** votre code par une IA pour **découvrir** des failles dans votre code et votre raisonnement. Pour **apprendre**, **corriger**.
+- Aux solutions proposées, demandez s'il existe des **solutions alternatives**. Plutôt que de demander à l'IA une réponse directe, lui demander **plusieurs approches** avec leurs **avantages et inconvénients**. Cela force la compréhension des compromis et produit souvent de meilleures réponses.
 
-Si vous remettez tout à votre IA *maintenant*, dans cet *espace*, *quand* allez-vous vous former ? Quelle *expérience* aurez-vous acquise ? *Comment* allez-vous justifier vos compétences ? Qu'allez-vous *apporter* ?
+Si vous remettez tout à votre IA *maintenant*, dans cet *espace*, *quand* allez-vous vous *former* ? Quelle *expérience* aurez-vous acquise ? Quelles compétences aurez-vous obtenues ? Comment allez-vous justifier ces compétences ? Qu'allez-vous *apporter* ?
 
 ## Conclusion
 
 - Ne confondez pas **temps de formation** et **temps de production**
-- Utilisez l'IA mais faites un usage *responsable*. Utilisez là pour *amplifier* et non pour *remplacer*
+- Utilisez l'IA mais faites un usage *responsable*... Utilisez là pour *amplifier* et non pour *remplacer*
 - N'oubliez pas les **intérêts des entreprises** à voir leur outils adoptés en masse ! Leurs intérêts ne sont pas *vos* intérêts (comme votre santé mentale ou votre experience). Attention au *story-telling* et aux spéculations. Lisez des articles et des retours d'expérience sérieux, loin de la *hype* et des influenceurs
 - Les personnes qui font des usages performants et utiles de l'IA sont des gens formés, qui ont des connaissances solides
 - Ne méprisez pas les fondamentaux, bien au contraire ! Ils vous resserviront *partout* car apprendre ce n'est pas "amasser" des connaissances, ce n'est pas un acte d'*accumulation* mais de *transformation*. En apprenant, vous *créez des liens* entre ce que vous savez déjà et des nouvelles choses. Ces liens constituent le socle de votre imagination et de votre capacité à résoudre des problèmes et à inventer des solutions. Il s'agit de se *transformer* sur le chemin, c'est le *chemin* qui compte
