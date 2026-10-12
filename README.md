@@ -38,9 +38,11 @@ section {
 
 # Programmation, développement informatique : se former à l'heure (à l'ère) de l'IA
 
-> Ma position et attitude face à l'IA et face à vous dans l'espace de formation.
+> Ma position et attitude pragmatique face à l'IA et face à vous dans l'espace de formation, sans même aborder les questions d'ordre éthique, politique ou philosophique
 
-Le but de ce métier est de résoudre des problèmes spécifiques pour vos clients en *designant* et *produisant* un système (des programmes) *fiable*, *compréhensible*, *sécurisé* et *performant*. Vous êtes, ou allez devenir, *des professionnel·es*: on attend de vous (et on vous paie pour) des produits et des prestations de *qualité professionnelle*.
+Le but de ce métier est de résoudre des problèmes spécifiques pour vos clients en *designant* et *produisant* un système informatique *fiable*, *compréhensible*, *sécurisé* et *performant*. 
+
+Vous êtes, ou allez devenir, *des professionnel·es*: on attend de vous (et on vous paie pour) des produits et des prestations de *qualité professionnelle*.
 
 Programmer c'est :
 
@@ -55,6 +57,7 @@ Programmer c'est :
 - écrire du code (*spécifications*)
 - lire/lire beaucoup de code
 - communiquer
+- être reponsable
 - déployer et monitorer (comprendre et corriger le comportement à l'exécution)
 - utiliser des outils techniques et spécifiques
 
@@ -65,7 +68,7 @@ Programmer c'est :
 - L'IA pose un (nouveau) *défi* à l'enseignement
 - L'industrie change (manière de travailler), ce que produit l'industrie non (même code, mêmes machines, mêmes techniques)
 - Le métier de développeur·se ne disparaît pas, il *change* (comme bien d'autres)
-- Personne ne sait encore *comment* utiliser correctement ces outils, expérimental, coûts/bénéfices
+- Personne ne sait encore *comment* utiliser correctement ces outils(expérimental, coûts/bénéfices, etc.)
 
 ## Faut-il toujours apprendre et se former ?
 
@@ -95,7 +98,9 @@ Programmer c'est :
 
 **Même input, jamais le même output !**
 
-Dépend du modèle, des sources sur lesquelles elle a été entraînée, *wrapper/harness* (application cliente), etc.
+Dépend du modèle, de sa version, des sources sur lesquelles elle a été entraînée, *wrapper/harness* (application cliente), etc.
+
+> On entend souvent que l'IA est une *abstraction de plus*, comme le C le fut sur les langages assembleurs. Ce n'est pas vrai. Car la nature de l'artefact ne change pas, contrairement à l'époque du passage à des langages *haut niveau* ! C'est toujours le même code et les mêmes primitives ! Les LLM ne sont pas une couche d'abstraction *en langage naturel* sur les langages de programmation car une couche d'abstraction informatique est *déterministe* et permet de masquer les détails d'implémentation de la couche sous-jacente. Ce qui n'est pas le cas quand on utiliser un LLM. Les problèmes des couches bas niveau (du code) remontent en permanence à la surface! Le langage naturel est *par définition* *équivoque*, sujet à interprétations. C'est ce qui le rend riche et utile pour communiquer avec d'autres humains. Cette force devient une énorme faiblesse quand il s'agit de programmer un ordinateur ! Les ordinateurs sont stupides, ils ne sont pas conçus comme nous. D'où la création de *langages de programmation*, des langages volontairement réduits et bien définis permettant de traduire nos intentions en instructions machines de manière *déterministe*, sans ambiguïté. Un LLM n'est ni un *compilateur* ni un *interpréteur*.
 
 ## L'IA ne produit pas le meilleur résultat, elle produit toujours un résultat et elle cherche à *vous satisfaire*
 
@@ -141,7 +146,6 @@ Dépend du modèle, des sources sur lesquelles elle a été entraînée, *wrappe
 
 >"AI has not changed the way software is built. Code is written using the same syntax, version controlled using the same version control systems, compiled using the same compilers, deployed to the same servers, and neglected by the same developers." (Kesley Hightower)
 
-> On entend souvent que l'IA est une *abstraction de plus*, comme le C le fut sur les langages assembleurs. Ce n'est pas vrai. Car la nature de l'artefact ne change pas, contrairement à l'époque du passage à des langages *haut niveau* ! C'est toujours le même code et les mêmes primitives ! Les LLM ne sont pas une couche d'abstraction *en langage naturel* sur les langages de programmation car une couche d'abstraction est *déterministe*. Le langage naturel est *par définition* *ambigu*, d'où la création de langages de programmation, des langages aux concepts réduits et bien définis permettant d'être traduits en instructions machines de manière déterministe. Un LLM n'est ni un *compilateur* ni un *interpréteur*.
 
 Que vous produisiez le code ou qu'un programme comme une IA le génère pour vous, à la fin, ce que vous devez produire, c'est toujours *du code*.
 
